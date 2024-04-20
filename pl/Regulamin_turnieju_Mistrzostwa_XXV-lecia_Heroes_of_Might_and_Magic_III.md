@@ -12,11 +12,11 @@
 
    - **Organizatorach**, należy przez to rozumieć osoby wymienione w [punkcie 5. rozdziału 1](#point-1-5).
    - **Serwerze Discord**, należy przez to rozumieć serwer H3gg na platformie Discord [link](https://www.discord.com/invite/WPXRs5aX89),
-   - **Uczestnikach** lub **Uczestniku**, należy przez to rozumieć, w zależnosći od kontekstu: osoby biorące udział w którejkolwiek z faz w Mistrzostwach, osoby biorące udział w danym Meczu lub, w przypadku liczby pojedynczej: każdą pojedynczą osobę biorącą udział w którejkolwiek z faz w Mistrzostwach lub osobę biorącą udział w Meczu,
+   - **Uczestnikach** lub **Uczestniku**, należy przez to rozumieć, w zależnosci od kontekstu: osoby biorące udział w którejkolwiek z faz w Mistrzostwach, osoby biorące udział w danym Meczu lub, w przypadku liczby pojedynczej: każdą pojedynczą osobę biorącą udział w którejkolwiek z faz w Mistrzostwach lub osobę biorącą udział w Meczu,
    - **Meczu**, należy przez to rozumieć wszystkie rozgrywki w ramach Mistrzostw, między dwoma danymi Uczestnikami, w danej fazie w Mistrzostwach,
    - **Partii**, należy przez to rozumieć pojedynczą rozgrywkę w Meczu,
    - **Stronie Mistrzostw**, należy przez to rozumieć stronę na witrynie h3.gg [link](htpps://www.h3.gg/).
-   - **Systemie Rankingowym Kammera**, należy przez to rozumieć ranking oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg w okresie od 9 czerwca 2022 do 21 kwietnia 2024. Używa on wag dla szablonów, które można uzyskać od Organizatorów na wniosek.
+   - **Systemie Rankingowym Kammera**, należy przez to rozumieć ranking oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg oraz Liga Heroes w okresie od 9 czerwca 2022 do 21 kwietnia 2024. Używa on wag dla szablonów, które można uzyskać od Organizatorów na wniosek.
 
 5. <a id="point-1-5"></a>Organizatorem Mistrzostw jest H3gg. Dokładny skład osobowy kadry Mistrzostw wraz z podanym tagiem na platformie Discord:
 
@@ -33,7 +33,7 @@
    | Makiki           | makiki           |
    | Niechcic         | niechcic         |
    | Ortant           | ortant           |
-   | Pączuś           | ponczekdusiszgo  |
+   | Ponczek           | ponczekdusiszgo  |
    | Ravciozo         | ravciozo         |
    | Vuko             | vuko0202         |
    | Zuuzel           | zuuzel           |
@@ -54,21 +54,21 @@
 
 1. Mistrzostwa zostaną podzielone na 4 fazy:
 
-   1). Fazę Rejestracji,
+   `1)` Fazę Rejestracji,
 
-   2). Fazę Grupową,
+   `2)` Fazę Grupową,
 
-   3). Fazę Pucharową,
+   `3)` Fazę Pucharową,
 
-   4). Wielkie Finały Mistrzostw.
+   `4)` Wielkie Finały Mistrzostw.
 
 2. Faza rejestracji:
 
-   1). faza rejestracji potrwa od dnia 21 kwietnia 2024 do dnia 5 maja 2024,
+   `1)` faza rejestracji potrwa od dnia 21 kwietnia 2024 do dnia 5 maja 2024,
 
-   2). warunkiem uczestnictwa w fazie rejestracji jest przeczytanie i zaakceptowanie Zasad Mistrzostw, dokonanie zapisu przez Stronę Mistrzostw oraz dołączenie na Serwer Discord.
+   `2)` warunkiem uczestnictwa w fazie rejestracji jest przeczytanie i zaakceptowanie Zasad Mistrzostw, dokonanie zapisu przez Stronę Mistrzostw oraz dołączenie na Serwer Discord.
 
-   2b). Organizatorzy zastrzegają sobie prawo do niedopuszczenia wybranej osoby do Mistrzostw, w szczególności jeżeli:
+   `2b)` Organizatorzy zastrzegają sobie prawo do niedopuszczenia wybranej osoby do Mistrzostw, w szczególności jeżeli:
 
    <ul style="list-style: none;">
    <li>a) osoba znana jest z oszukiwania podczas rozgrywek,</li>
@@ -81,65 +81,65 @@
    - wprowadzający w błąd np. nazw zbliżonych do kont  innych użytkowników.
    </ul>
 
-   2c). o niedopuszczeniu do Mistrzostw Organizatorzy winni poinformować daną osobę, w wiadomości prywatnej, najpóźniej w dniu zakończenia fazy,
+   `2c)` o niedopuszczeniu do Mistrzostw Organizatorzy winni poinformować daną osobę, w wiadomości prywatnej, najpóźniej w dniu zakończenia fazy rejestracji,
 
-   3). zabronione jest uczestnictwo w fazie z więcej niż jednego konta.
+   `3)` zabronione jest uczestnictwo w fazie z więcej niż jednego konta.
 
 3. Faza grupowa:
 
-   1). faza grupowa rozpocznie się dnia 5 maja 2024 i potrwa, w zależności od ogólnej liczby Uczestników zapisanych do Mistrzostw, do 26 maja 2024, 2 czerwca 2024 lub 9 czerwca 2024,
+   `1)` faza grupowa rozpocznie się 5 maja 2024 i potrwa, w zależności od ogólnej liczby Uczestników zapisanych do Mistrzostw, do 26 maja 2024, 2 czerwca 2024 lub 9 czerwca 2024,
 
-   1b). w przypadku potrzeby przeprowadzenia dogrywek, czas trwania fazy może zostać przedłużony o tydzień,
+   `1b)` w przypadku potrzeby przeprowadzenia dogrywek, czas trwania fazy może zostać przedłużony o tydzień,
 
-   2). warunkiem uczestnictwa w fazie grupowej jest uczestnictwo w fazie rejestracji, brak orzeczenia przez Organizatorów o niedopuszczeniu do Mistrzostw oraz respektowanie przepisów Regulaminu,
+   `2)` warunkiem uczestnictwa w fazie grupowej jest uczestnictwo w fazie rejestracji, brak orzeczenia przez Organizatorów o niedopuszczeniu do Mistrzostw oraz respektowanie przepisów Regulaminu,
 
-   2b). <a id="point-2-3-2b"></a>z uczestnictwa w tej fazie zostanie zwolnionych 32 Uczestników, z czego 4 to Uczestnicy, którzy dotarli do półfinałów w turnieju *Mistrzostwa XXV-lecia Heroes of Might and Magic III - Rozgrzewka*, a pozostałych 28 zostanie wybranych na podstawie Systemu Rankingowego Kammera, oraz rozpoznania umiejętności w Heroes III przez Organizatorów,
+   `2b)` <a id="point-2-3-2b"></a>z uczestnictwa w tej fazie zostanie zwolnionych 32 Uczestników, z czego 4 to Uczestnicy, którzy dotarli do półfinałów w turnieju *Mistrzostwa XXV-lecia Heroes of Might and Magic III - Rozgrzewka*, a pozostałych 28 zostanie wybranych na podstawie Systemu Rankingowego Kammera, oraz rozpoznania umiejętności w Heroes III przez Organizatorów,
 
-   3). w fazie grupowej Uczestnicy zostaną podzieleni, w sposób losowy na podstawie koszyków ustalonych na podstawie Systemu Rankingowego Kammera, na grupy, o w miarę możliwości równych rozmiarach,
+   `3)` w fazie grupowej Uczestnicy zostaną podzieleni, w sposób losowy na podstawie koszyków ustalonych na podstawie Systemu Rankingowego Kammera, na grupy, o w miarę możliwości równych rozmiarach,
 
-   4). średnia liczba Uczestników przydzielonych na grupę zostanie określona po zakończeniu fazy rejestracji na podstawie liczby zapisanych Uczestników, jednak nie będzie wynosiła więcej niż 8,
+   `4)` średnia liczba Uczestników przydzielonych na grupę zostanie określona po zakończeniu fazy rejestracji na podstawie liczby zapisanych Uczestników, jednak nie będzie wynosiła więcej niż 8,
 
-   5). rozgrywki będą prowadzone w systemie każdy z każdym wewnątrz grup,
+   `5)` rozgrywki będą prowadzone w systemie każdy z każdym wewnątrz grup,
 
-   6). Mecze rozgrywane będą rozgrywane w systemie Bo1,
+   `6)` Mecze rozgrywane będą rozgrywane w systemie Bo1,
 
-   7). za zwycięstwo Uczestnik otrzymuje 1 punkt, w przypadku porażki jest to 0 punktów, w przypadku remisu Mecz powinien zostać powtórzony,
+   `7)` za zwycięstwo Uczestnik otrzymuje 1 punkt, w przypadku porażki jest to 0 punktów, w przypadku remisu Mecz powinien zostać powtórzony,
 
-   8). dwóch Uczestników z najwyższą liczbą punktów w każdej grupie zostaje zwycięzcami fazy,
+   `8)` dwóch Uczestników z najwyższą liczbą punktów w każdej grupie zostaje zwycięzcami fazy,
 
-   9). w przypadku zdobycia przez dwóch lub więcej Uczestników w jednej grupie równej liczby punktów, decyduje wynik Meczów bezpośrednich pomiędzy tymi Uczestnikami,
+   `9)` w przypadku zdobycia przez dwóch lub więcej Uczestników w jednej grupie równej liczby punktów, decyduje wynik Meczów bezpośrednich pomiędzy tymi Uczestnikami,
 
-   10). <a id="point-2-3-10"></a>w przypadku, w którym wynik Meczów bezpośrednich nie pozwala na jednoznaczne wskazanie zwycięzców (np. niech trzech Uczestników A, B i C znajduje się w jednej grupie i posiada równą liczbę punktów, Uczestnik A wygrał Mecz bezpośredni z Uczestnikiem B, B z C, a C z A) należy rozegrać dogrywki,
+   `10)` <a id="point-2-3-10"></a>w przypadku, w którym wynik Meczów bezpośrednich nie pozwala na jednoznaczne wskazanie zwycięzców (np. niech trzech Uczestników A, B i C znajduje się w jednej grupie i posiada równą liczbę punktów, Uczestnik A wygrał Mecz bezpośredni z Uczestnikiem B, B z C, a C z A) należy rozegrać dogrywki,
 
-   11). w przypadku, w którym w wyniku dogrywek powtórzy się sytuacja z [ustępu 10).](#point-2-3-10), Organizatorzy rostrzygną kolejność w grupie poprzez rzut monetą zgodnie z [ustępem 12).](#point-2-3-12),
+   `11)` w przypadku, w którym w wyniku dogrywek powtórzy się sytuacja z [ustępu 10).](#point-2-3-10), Organizatorzy rostrzygną kolejność w grupie poprzez rzut monetą zgodnie z [ustępem `12)`](#point-2-3-12),
 
-   12). <a id="point-2-3-12"></a> rzut monetą przeprowadzany jest przez jednego z Organiaztorów przy obecności wszystkich Uczestników, których on dotyczy. Cała procedura powinna zostać nagrana przez Organizatora.
+   `12)` <a id="point-2-3-12"></a> rzut monetą przeprowadzany jest przez jednego z Organiaztorów przy obecności wszystkich Uczestników, których on dotyczy. Cała procedura powinna zostać nagrana przez Organizatora.
 
 4. Faza pucharowa:
 
-   1). faza pucharowa rozpocznie się w dniu zakończenia fazy grupowej i potrwa, w zależności od ogólnej liczby Uczestników zapisanych do Mistrzostw, od 14 do 16 tygodni,
+   `1)` faza pucharowa rozpocznie się w dniu zakończenia fazy grupowej i potrwa, w zależności od ogólnej liczby Uczestników zapisanych do Mistrzostw, od 14 do 16 tygodni,
 
-   2). warunkiem dołączenia do fazy pucharowej jest zwycięstwo w fazie grupowej albo wyłączenie z rozgrywek w fazie grupowej zgodnie z [ustępem 2b). punktu 3 tego rozdziału](#point-2-3-2b),
+   `2)` warunkiem dołączenia do fazy pucharowej jest zwycięstwo w fazie grupowej albo wyłączenie z rozgrywek w fazie grupowej zgodnie z [ustępem `2b)` punktu 3 tego rozdziału](#point-2-3-2b),
 
-   3). w fazie pucharowej Uczestnicy zmierzą się w parach, które zostaną ustalone na podstawie miejsc zajętych w poprzedniej fazie, oraz w drugiej kolejności liczby punktów zdobytych w poprzedniej fazie,
+   `3)` w fazie pucharowej Uczestnicy zmierzą się w parach, które zostaną ustalone na podstawie miejsc zajętych w poprzedniej fazie, oraz w drugiej kolejności liczby punktów zdobytych w poprzedniej fazie,
 
-   3b). Uczestnicy wymienieni w [ustępie 2b). punktu 3 tego rozdziału](#point-2-3-2b), będą traktowani tak jak Uczestnicy, którzy zajęli 1 miejsce w grupie i zdobyli maksymalną liczbę punktów w tejże,
+   `3b)` Uczestnicy wymienieni w [ustępie `2b)` punktu 3 tego rozdziału](#point-2-3-2b), będą traktowani tak jak Uczestnicy, którzy zajęli 1 miejsce w grupie i zdobyli maksymalną liczbę punktów w tejże,
 
-   4). Mecze rozgrywane będą w systemie Bo3,
+   `4)` Mecze rozgrywane będą w systemie Bo3,
 
-   5). w przypadku zwycięstwa Uczestnik przechodzi do następnej rundy, w przypadku porażki zostaje wyeliminowany z Mistrzostw,
+   `5)` w przypadku zwycięstwa Uczestnik przechodzi do następnej rundy, w przypadku porażki zostaje wyeliminowany z Mistrzostw,
 
-   6). termin na rozegranie Meczu w tej fazie będzie wynosił 2 tygodnie,
+   `6)` termin na rozegranie Meczu w tej fazie będzie wynosił 2 tygodnie,
 
-   7). 2 zwycięzców półfinałów oraz 2 przegranych półfinałów awansuje do Wielkich Finałów Mistrzostw.
+   `7)` 2 zwycięzców półfinałów oraz 2 przegranych półfinałów awansuje do Wielkich Finałów Mistrzostw.
 
 5. Wielkie Finały Mistrzostw
 
-   1). Wielkie Finały Mistrzostw rozpoczną się 22 września 2024 i potrwają do 6 października 2024,
+   `1)` Wielkie Finały Mistrzostw rozpoczną się 22 września 2024 i potrwają do 6 października 2024,
 
-   2). warunkiem uczestnictwa w tej fazie jest udział w półfinałach fazy pucharowej,
+   `2)` warunkiem uczestnictwa w tej fazie jest udział w półfinałach fazy pucharowej,
 
-   3). w tej fazie zostaną przeprowadzone 2 Mecze Bo3. Pierwszy pomiędzy 2 zwycięzcami półfinałów fazy pucharowej - finał, oraz drugi pomiędzy 2 przegranymi półfinałów w tej fazy - mecz o trzecie miejsce.
+   `3)` w tej fazie zostaną przeprowadzone 2 Mecze Bo3. Pierwszy pomiędzy 2 zwycięzcami półfinałów fazy pucharowej - finał, oraz drugi pomiędzy 2 przegranymi półfinałów w tej fazy - mecz o trzecie miejsce.
 
 6. Za zgodą obu Uczestników Mecz Bo1 może zostać rozegrany w systemie Bo3, a Mecz Bo3 w systemie Bo5. Nie dotyczy to Wielkich Finałów Mistrzostw.
 
@@ -147,11 +147,11 @@
 
 8. W przypadku problemów z terminowym rozegraniem Meczu:
 
-   1). na wniosek Uczestnika Meczu, Organizatorzy mogą przedłużyć termin na rozegranie Meczu o jeden dzień,
+   `1)` na wniosek Uczestnika Meczu, Organizatorzy mogą przedłużyć termin na rozegranie Meczu o jeden dzień,
 
-   2). na wniosek obu Uczestników Meczu oraz za zgodą Uczestnika, z którym zmierzyłby się zwycięzca Meczu, w którym występuje problem z terminowym rozegraniem, Organizatorzy mogą przedłużyć termin na rozegranie Meczu o więcej niż jeden dzień, z zastrzeżeniem, że Uczestnicy powinni wcześniej ustalić termin Meczu w następnej fazie z ich potencjalnym przeciwnikiem w tejże, a następnie podać go Organizatorom,
+   `2)` na wniosek obu Uczestników Meczu oraz za zgodą Uczestnika, z którym zmierzyłby się zwycięzca Meczu, w którym występuje problem z terminowym rozegraniem, Organizatorzy mogą przedłużyć termin na rozegranie Meczu o więcej niż jeden dzień, z zastrzeżeniem, że Uczestnicy powinni wcześniej ustalić termin Meczu w następnej fazie z ich potencjalnym przeciwnikiem w tejże, a następnie podać go Organizatorom,
 
-   3). na wniosek obu Uczestników Meczu, lub decyzją Organizatora, system rozgrywek może zostanie zmieniony w danym Meczu na Bo1.
+   `3)` na wniosek obu Uczestników Meczu, lub decyzją Organizatora, system rozgrywek może zostanie zmieniony w danym Meczu na Bo1.
 
 9. W przypadku problemów ze znalezieniem wspólnego terminu Partii, Organizatorzy, na wniosek jednego z Uczestników Meczu lub własną decyzją, mogą wyznaczyć termin sędziowski dla danej Partii.
 
@@ -188,36 +188,36 @@
 
 8. Zapisując się do Mistrzostw Uczestnik:
 
-   1). Akcpetuje Politykę Prywatności Mistrzostw,
+   `1)` Akcpetuje Politykę Prywatności Mistrzostw,
 
-   2). Nadaje Organizatorom niezbywalne i niewyłączne prawo do retransmisji, nagrywania i udostępniania wybranych Partii w celu udostępniania komentarza i archiwizacji. Organizatorzy mogą dzielić się tym prawem z osobami trzecimi.
+   `2)` Nadaje Organizatorom niezbywalne i niewyłączne prawo do retransmisji, nagrywania i udostępniania wybranych Partii w celu udostępniania komentarza i archiwizacji. Organizatorzy mogą dzielić się tym prawem z osobami trzecimi.
 
 9. Począwszy od fazy 1/32 fazy pucharowej wlącznie Uczestnik zobowiązany jest do zamieszczenia informacji o planowanej dacie Partii na Discordzie na kanale `#schedule`:
 
-   1). W fazie 1/32 fazy pucharowej przed rozpoczęciem Partii,
+   `1)` W fazie 1/32 fazy pucharowej przed rozpoczęciem Partii,
 
-   2). W fazie 1/16 fazy pucharowej 24 godziny przed rozpoczęciem Partii,
+   `2)` W fazie 1/16 fazy pucharowej 24 godziny przed rozpoczęciem Partii,
 
-   3). W fazie 1/8 fazy pucharowej 48 godzin przed rozpoczęciem Partii,
+   `3)` W fazie 1/8 fazy pucharowej 48 godzin przed rozpoczęciem Partii,
 
-   4). W fazie 1/2 fazy pucharowej oraz w Wielkich Finałach Mistrzostw 72 godziny przed rozpoczęciem Partii.
+   `4)` W fazie 1/2 fazy pucharowej oraz w Wielkich Finałach Mistrzostw 72 godziny przed rozpoczęciem Partii.
 
 > [!IMPORTANT]
 > Organizatorzy zachęcają do zamieszczania informacji o planowanej dacie Partii na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
 
-10. Począwszy od fazy 1/32 fazy pucharowej włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Partii.
+10. Począwszy od fazy 1/32 fazy pucharowej włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Partii. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia link do transmisji na kanale `#streams` na Serwerze Discord.
 
 11. Jeżeli Partia jest retransmitowana przez Organizatorów Uczestnik dodatkowo zobowiązany jest na czas trwania Partii:
 
-    1). Ukryć wszystkie zewnętrzne nakładki np reklamy, banery, nakładki informujące o stanie Partii (tzw. *overlay*), widoczne na transmisji Uczestnika,
+    `1)` Ukryć wszystkie zewnętrzne nakładki np reklamy, banery, nakładki informujące o stanie Partii (tzw. *overlay*), widoczne na transmisji Uczestnika,
 
-    2). Ustawić rozdzielczość Heroes III w zakresie od 1180x664 do 1365x768.
+    `2)` Ustawić rozdzielczość Heroes III w zakresie od 1180x664 do 1365x768.
 
 12. W obu Meczach Wielkich Finałów Mistrzostw każdy Uczestnik zobowiązany jest na czas trwania Partii:
 
-    1). Nałożyć na transmisję obraz udostępniany z kamery internetowej. Jeżeli Uczestnik nie posiada sprzętu potrzebnego do spełnienia tego wymogu, Organizatorzy dołożą wszelkich starań, aby na czas Meczu taki sprzęt udostępnić,
+    `1)` Nałożyć na transmisję obraz udostępniany z kamery internetowej. Jeżeli Uczestnik nie posiada sprzętu potrzebnego do spełnienia tego wymogu, Organizatorzy dołożą wszelkich starań, aby na czas Meczu taki sprzęt udostępnić,
 
-    2). Ustawić rozdzielczość Heroes III na 1180x664.
+    `2)` Ustawić rozdzielczość Heroes III na 1180x664.
 
 ## 4. Rozgrywka
 
@@ -225,17 +225,17 @@
 
 2. Przygotowanie rozgrywki:
 
-   1). jeden z Uczestników zakłada pokój w HotA Lobby (będzie on gospodarzem), drugi Uczestnik dołącza do założonego przez gospodarza pokoju w Lobby (będzie on gościem).
+   `1)` jeden z Uczestników zakłada pokój w HotA Lobby (będzie on gospodarzem), drugi Uczestnik dołącza do założonego przez gospodarza pokoju w Lobby (będzie on gościem).
 
-   2). gość wybiera cyfrę 1 lub 0, gospodarz za pośrednictwem opcji `Coin Flip` losuje cyfrę 1 albo 0.
+   `2)` gość wybiera cyfrę 1 lub 0, gospodarz za pośrednictwem opcji `Coin Flip` losuje cyfrę 1 albo 0.
 
 3. Wybór szablonów:
 
-   1). szablony obowiązujące w turnieju można znaleźć w [Regulaminie Szablonów](https://github.com/H3-gg/25th-Anniversary-Champioships/blob/main/pl/Regulamin_Szablon%C3%B3w_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III.md),
+   `1)` szablony obowiązujące w turnieju można znaleźć w [Regulaminie Szablonów](https://github.com/H3-gg/25th-Anniversary-Champioships/blob/main/pl/Regulamin_Szablon%C3%B3w_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III.md),
 
-   2). w przypadku Meczu Bo1, Uczestnicy eliminują szablony w systemie ABBA, gdzie A to zwycięzca rzutu monetą, aż do pozostania jednego szablonu,
+   `2)` w przypadku Meczu Bo1, Uczestnicy eliminują szablony w systemie ABBA, gdzie A to zwycięzca rzutu monetą, aż do pozostania jednego szablonu,
 
-   3). W przypadku Meczu Bo3:
+   `3)` W przypadku Meczu Bo3:
    <ul style="list-style: none;">
 
    a) zwycięzca rzutu monetą wybiera szablon, na którym zostanie rozegrana pierwsza Partia w Meczu,
@@ -247,7 +247,7 @@
 
 4. Wybór koloru oraz miasta:
 
-   1). Na szablonach nielustrzanych (6lm10f fixed, Conquest, Duel 2.69R, Jebus Cross, Jebus Outcast 2.96A):
+   `1)` Na szablonach nielustrzanych (6lm10f fixed, Conquest, Duel 2.69R, Jebus Cross, Jebus Outcast 2.96A):
    <ul style="list-style: none;">
 
    a) Wylosowanie miast następuje przez opcję Random Town vs Random Town, w przypadku wylosowania dwóch identycznych miast, losowanie należy powtórzyć,
@@ -256,23 +256,23 @@
 
    c) Licytację o miasto oraz o kolor rozpoczyna Uczestnik, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru.
    </ul>
-   2). Na szablonach lustrznych (h3dm3_nc, mt_Jebus, mt_Nebula):
+   `2)` Na szablonach lustrznych (h3dm3_nc, mt_Jebus, mt_Nebula):
    <ul style="list-style: none;">
 
    a) Wylosowanie miasta następuje przez opcję Random Town,
 
-   b) Uczestnicy mogą zażądać ponownego losowania miast (tzw. *reroll*) i zbanowania wylosowanego miasta. Opłata za *reroll* zależna jest od rozgrywanego szablonu, informacja o niej znajduje się w Regulaminie Szablonów. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Uczestnika w ciągu Partii. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
+   b) Uczestnicy mogą zażądać ponownego losowania miast (tzw. *reroll*) i zbanowania wylosowanego miasta za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Uczestnika w ciągu Partii. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
 
    c) Licytację o kolor rozpoczyna Uczestnik, który wygrał rzut monetą.
    </ul>
-   3). Wybór bohaterów startowych na szablonach lustrzanych:
+   `3)` Wybór bohaterów startowych na szablonach lustrzanych (gdzie gracz A to zwycięzca licytacji o kolor):
    <ul style="list-style: none;">
 
-   a) gracz czerwony banuje 0-3 bohaterów,
+   a) gracz A banuje 0-3 bohaterów,
 
-   b) gracz niebieski wybiera jednego z pozostałych bohaterów startowych w wylosowanej frakcji,
+   b) gracz B wybiera jednego z pozostałych bohaterów startowych w wylosowanej frakcji,
 
-   c) gracz czerwony wybiera jednego z pozostałych bohaterów startowych w wylosowanej frakcji.
+   c) gracz A wybiera jednego z pozostałych bohaterów startowych w wylosowanej frakcji.
    </ul>
 
 ## 5. Restarty
@@ -281,9 +281,9 @@
 
 2. Pierwszy decyzję o subiektywnym restarcie podejmuje gracz czerwony, a następnie gracz niebieski. Gracz niebieski ma prawo w 112 i 113 podjąć decyzję o subiektywnym restarcie, liczoną jako subiektywny restart z poprzedniej, maksymalnie do 5 sekund od zaakceptowania monitu o rozpoczęciu tury.
 
-3. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą również wykorzystać restarty techniczne. Dodatkowe przesłanki, które muszą zostać spełnione, aby taki restart mógł być wykorzystany, określone są w Regulaminie [Restartów Technicznych](Regulamin_Restartów_Technicznych_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III.md) //todo dodać link
+3. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą również wykorzystać restarty techniczne. Dodatkowe przesłanki, które muszą zostać spełnione, aby taki restart mógł być wykorzystany, określone są w Regulaminie [Restartów Technicznych](Regulamin_Restartów_Technicznych_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III.md)
 
-4. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą skorzystać z restartów wczesnego spotkania. Dostępne są one, jeżeli nastąpi interakcja między Uczestnikami w turze 115 dla szybkich i 116 dla średnich dróg, każdy z Uczestników ma prawo zażądać restartu wczesnego spotkania, jednak nie jest to obowiązkowe. Interakcja między Uczestnikami jest zdefiniowana jako jakakolwiek walka między Uczestnikami lub przejęcie.
+4. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą skorzystać z restartów wczesnego spotkania. Dostępne są one, jeżeli nastąpi interakcja między Uczestnikami w turze 115 dla szybkich i 116 dla średnich dróg, każdy z Uczestników ma prawo zażądać restartu wczesnego spotkania, jednak nie jest to obowiązkowe. Interakcja między Uczestnikami jest zdefiniowana jako jakakolwiek walka między Uczestnikami lub przejęcie. Nie dotyczy to szablonów lustrzanych.
 
 5. Żaden z restartów nie może zostać wykorzystany do zmiany wybranego bohatera startowego lub premii startowej.
 
@@ -293,7 +293,7 @@
 
 2. Po zakończeniu Partii Uczestnicy są zobowiązani do podania haseł, które chronią zapisy Partii.
 
-3. Zwycięzca składa raport z Partii należy składać na Stronie Turnieju, na wniosek zainteresowanego, przegrany może złożyć raport za zwycięzcę.
+3. Zwycięzca składa raport z Partii należy składać na Stronie Turnieju, jeżeli przegrany wyrazi taką chęć, może on złożyć raport za zwycięzcę.
 
 4. Jeżeli raport nie zostanie potwierdzony w terminie Meczu, ani nie zostanie zgłoszone oszustwo w raporcie, zostaje on uznany za potwierdzony.
 
@@ -303,7 +303,7 @@
 
 1. Organizatorzy mają do dyspozycji kilka możliwości w jakie mogą karać Uczestników za nieprzestrzeganie Zasad Mistrzostw. Poziomy kar zdefiniowane są w następujący sposób:
 
-   1). Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
+   `1)` Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
    <ul style="list-style: none;">
 
    a). Drugie ostrzeżenie - walkower na Partię (Mecz w przypadku *Bo1*),
@@ -311,34 +311,34 @@
    b). Trzecie ostrzeżenie - dyskwalifikacja,
    </ul>
 
-   2). Walkower na Partię (Mecz w przypadku *Bo1*) - otrzymywany za średnie przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem,
+   `2)` Walkower na Partię (Mecz w przypadku *Bo1*) - otrzymywany za średnie przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem,
 
-   3). Dyskwalifikacja - otrzymywana za duże przewinienia.
-2. Organizatorzy w sytuacjach, w których doszło do nieprawidłowości związanych z rozegraniem Partii może nakazać jej powtórzenie.
+   `3)` Dyskwalifikacja - otrzymywana za duże przewinienia.
+2. W sytuacjach, w których doszło do nieprawidłowości w rozegraniu Partii, Organizatorzy mogą nakazać jej powtórzenie.
 
 3. W przypadku kiedy jeden z Uczestników nie stawi się na ustalony termin gry, należy zastosować następującą procedurę (ilekroć w procedurze występują zwroty w drugiej osobie, Organizatorzy mają na myśli tego z Uczestników grających w danym Meczu, który czeka na swojego, spóźniającego się, przeciwnika):
 
-   1). Po 5 minutach od ustalonego terminu, poinformuj Organizatorów o rozpoczęciu tej procedury, a następnie wyślij do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “I have attempted to play a match with you, and now I am waiting for you to show up. According to the rules, you have 15 minutes from now to show up and start playing the game, or otherwise you will be penalized with a game forfeit. I have informed the Organizer that this procedure has begun.”
+   `1)` Po 5 minutach od ustalonego terminu, poinformuj Organizatorów o rozpoczęciu tej procedury, a następnie wyślij do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “I have attempted to play a match with you, and now I am waiting for you to show up. According to the rules, you have 15 minutes from now to show up and start playing the game, or otherwise you will be penalized with a game forfeit. I have informed the Organizer that this procedure has begun.”
 
-   1b). W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Dokonałem próby rozegrania meczu, a teraz czekam na to aż się pojawisz. Zgodnie z zasadami, masz 15 minut na pojawienie się i rozpoczęcie gry. Organizator został już poinformowany o rozpoczęciu tej procedury.”
+   `1b)` W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Dokonałem próby rozegrania meczu, a teraz czekam na to aż się pojawisz. Zgodnie z zasadami, od tego momentu masz 15 minut na pojawienie się i rozpoczęcie gry. Organizator został już poinformowany o rozpoczęciu tej procedury.”
 
-   2). <a id="point-7-3-2"></a>Po 15 minutach od ustalonego terminu, jeżeli przeciwnik nadal się nie zjawił, musisz poinformować o tej sytuacji Organizatorów, a następnie wysłać do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “You have not shown up as requested. I have informed the Organizer of this situation. I am waiting another 15 minutes for your response, but according to regulations you will be devoid of subjective restarts in this Party.”
+   `2)` <a id="point-7-3-2"></a>Po 15 minutach od ustalonego terminu, jeżeli przeciwnik nadal się nie zjawił, musisz poinformować o tej sytuacji Organizatorów, a następnie wysłać do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “You have not shown up as requested. I have informed the Organizer of this situation. I am waiting another 15 minutes for your response, but according to regulations you will be devoid of subjective restarts in this Party.”
 
-   2b). W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Nie zjawiłeś/zjawiłaś się w wyznaczonym terminie. Organizator został poinformowany o tej sytuacji. Będę czekał jeszcze 15 minut na Twoją odpowiedź, ale zgodnie z regulaminem zostaniesz pozbawiony subiektywnych restartów w tej partii.”
+   `2b)` W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Nie zjawiłeś/zjawiłaś się w wyznaczonym terminie. Organizator został poinformowany o tej sytuacji. Będę czekał jeszcze 15 minut na Twoją odpowiedź, ale zgodnie z regulaminem zostaniesz pozbawiony subiektywnych restartów w tej partii.”
 
-   3). Jeżeli przeciwnik zjawi się po wysłaniu wiadomości z [ustępu 2)](#point-2-3-2b) i przed upływem 30 minut od ustalonego terminu, nie będzie mógł on skorzystać z subiektywnych restartów w tej Partii.
+   `3)` Jeżeli przeciwnik zjawi się po wysłaniu wiadomości z [ustępu 2)](#point-2-3-2b) i przed upływem 30 minut od ustalonego terminu, nie będzie mógł on skorzystać z subiektywnych restartów w tej Partii.
 
-   4). Po 30 minutach od ustalonego terminu, jeżeli przeciwnik nadal się nei zjawił, musisz poinformować o tej sytuacji Organizatorów, a następnie wysłać do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “You have not shown up as requested. I have informed the Organizer of this situation. I am not waiting for your respone any longer.”
+   `4)` Po 30 minutach od ustalonego terminu, jeżeli przeciwnik nadal się nie zjawił, musisz poinformować o tej sytuacji Organizatorów, a następnie wysłać do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “You have not shown up as requested. I have informed the Organizer of this situation. I am not waiting for your respone any longer.”
 
-   4b). W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Nie zjawiłeś/zjawiłaś się w wyznaczonym terminie. Organizator został poinformowany o tej sytuacji. Nie czekam już dłużej na Twoją odpowiedź.”
+   `4b)` W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Nie zjawiłeś/zjawiłaś się w wyznaczonym terminie. Organizator został poinformowany o tej sytuacji. Nie czekam już dłużej na Twoją odpowiedź.”
 
-   5). W przypadku jeżeli przeciwnik zjawi się i jest chętny do rozpoczęcia Partii, powinieneś/powinnaś pozwolić przeciwnikowi na spokojne przygotowanie się do Partii. Należy przyjąć zasadę, że przeciwnik powinien mieć co najmniej 5 dodatkowych minut na połączenie się z serwerami poczekalni online i dołączenie do pokoju Partii. Jeżeli przeciwnik wyraźnie nadużywa tego przywileju, powinieneś/powinnaś poinformować o tym Organizatorów.
+   `5)` W przypadku jeżeli przeciwnik zjawi się i jest chętny do rozpoczęcia Partii, powinieneś/powinnaś pozwolić przeciwnikowi na spokojne przygotowanie się do Partii. Należy przyjąć zasadę, że przeciwnik powinien mieć co najmniej 5 dodatkowych minut na połączenie się z serwerami poczekalni online i dołączenie do pokoju Partii. Jeżeli przeciwnik wyraźnie nadużywa tego przywileju, powinieneś/powinnaś poinformować o tym Organizatorów.
 
-   6). W przypadku meczów dla których ustalono termin sędziowski, nie poinformowanie o brakującym graczu Załogi może skutkować podwójnym walkowerem.
+   `6)` W przypadku meczów dla których ustalono termin sędziowski, nie poinformowanie o brakującym graczu Załogi może skutkować podwójnym walkowerem.
 
-   7). Jeżeli chcesz, możesz opóźnić wykonanie tej procedury maksymalnie o godzinę - ale nie masz takiego obowiązku.
+   `7)` Jeżeli chcesz, możesz opóźnić wykonanie tej procedury maksymalnie o godzinę - ale nie masz takiego obowiązku.
 
-   8). Stosując powyższą procedurę, musisz przygotować dowód w postaci zrzutu ekranu pokazujący że twój przeciwnik nie pojawił się na czas. Dodatkowo, musisz przygotować dowód w tej samej formie pokazujący ustaloną datę i godzinę rozpoczęcia Partii. W przypadku jeżeli termin został ustalony w sposób niejednoznaczny, Organizatorzy mogą zdecydować się na nie wyciągnięcie konsekwencji wobec brakującego gracza, w zależności od pełnego kontekstu. Organizatorzy mogą też zadecydować o redukcji kary w przypadku zaistniałej siły wyższej.
+   `8)` Stosując powyższą procedurę, musisz przygotować dowód w postaci zrzutu ekranu pokazujący że twój przeciwnik nie pojawił się na czas. Dodatkowo, musisz przygotować dowód w tej samej formie pokazujący ustaloną datę i godzinę rozpoczęcia Partii. W przypadku jeżeli termin został ustalony w sposób niejednoznaczny, Organizatorzy mogą zdecydować się na nie wyciągnięcie konsekwencji wobec brakującego gracza, w zależności od pełnego kontekstu. Organizatorzy mogą też zadecydować o redukcji kary w przypadku zaistniałej siły wyższej.
 
 4. Uczestnicy mogą odwołać się od decyzji Organizatorów najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
 

@@ -10,13 +10,13 @@
 
 4. Whenever the Championships Rules refer to:
 
-   - **Organizers**, should be understood to mean people mentioned in [point 5, chapter 1](#point-1-5).
+   - **Organizers**, should be understood to mean people mentioned in [point 5, chapter 1](#point-1-5)
    - **Discord Server**, should be understood to mean h3gg server on Discord platform [link](https://www.discord.com/invite/WPXRs5aX89),
-   - **Participtants** or **Participtant**, should be understood to mean all people signed up to the Championships,
+   - **Participtants** or **Participtant**, should be understood to mean, depending on the context: people participating in any of the phases of the Championships, people participating in a given Match or, in the singular: each individual participating in any of the phases of the Championships or participating in the Match,
    - **Match**, should be understood to mean all games played in Championships, between two given Participtants, in given phase,
    - **Party**, should be understood to mean single game in the Match,
    - **Championships Website**, should be understood to mean Championships page on h3gg website [link](https://www.h3.gg/xxv).
-   - **Kammer Ranking System**, should be understood to mean an elo-based ranking system generated from the results of tournament matches as reported on the H3gg website. For the purposes of the tournament, the period from 9 June 2022 to 21 April 2024 is assumed. The ranking also uses template weights, which can be obtained from the Organisers on request,
+   - **Kammer Ranking System**, should be understood to mean an elo-based ranking system generated from the results of tournament matches as reported on the H3gg and Liga Heroes website. For the purposes of the tournament, the period from 9 June 2022 to 21 April 2024 is assumed. The ranking also uses template weights, which can be obtained from the Organisers on request,
 
 5. <a id="point-1-5"></a>The Championships organizer is H3gg. The exact composition of Championships staff:
 
@@ -28,11 +28,12 @@
    | Fafhrd           |     .fafhrd      |
    | Kacper           |   kacperpolok    |
    | Keszu            |      keszu       |
+   | Kosixon          |     kosixon      |
    | Kubaryt          |     kubaryt      |
    | Makiki           |      makiki      |
    | Niechcic         |     niechcic     |
    | Ortant           |      ortant      |
-   | Pączuś           | ponczekdusiszgo  |
+   | Ponczek          | ponczekdusiszgo  |
    | Ravciozo         |     ravciozo     |
    | Vuko             |     vuko0202     |
    | Zuuzel           |      zuuzel      |
@@ -53,21 +54,21 @@
 
 1. Championships will be divided into 4 phases:
 
-   1). Registration phase,
+   `1)` Registration phase,
 
-   2). Group phase,
+   `2)` Group phase,
 
-   3). Knockout phase,
+   `3)` Knockout phase,
 
-   4). Grand Championships Finals.
+   `4)` Grand Championships Finals.
 
 2. Registration phase:
 
-   1). registration phase will last from 21 April 2024 to 5 May 2024,
+   `1)` registration phase will last from 21 April 2024 to 5 May 2024,
 
-   2). condition of joining registration phase is to read and accept Championships Rules, sign up to Championships via Championships Website and join Discord Server,
+   `2)` condition of joining registration phase is to read and accept Championships Rules, sign up to Championships via Championships Website and join Discord Server,
 
-   2b). The Organizers reserve the right not to admit a selected person to Championships, in particular if:
+   `2b)` The Organizers reserve the right not to admit a selected person to Championships, in particular if:
 
    <ul style="list-style: none;">
    <li>a) The person is known to cheat during games,</li>
@@ -81,65 +82,65 @@
       </ul>
    </ul>
 
-   2c). Organizers should inform a given person about not being admitted to Championships, in a private message, no later than on the day of the end of the phase,
+   2c). Organizers should inform a given person about not being admitted to Championships, in a private message, no later than on the day of the end of the registration phase,
 
-   3). joining the phase from more than one account is forbidden.
+   `3)` joining the phase from more than one account is forbidden.
 
 3. Group phase:
 
-   1). Group phase will start at 5 May 2024 and will last, depending on total number of Participtants, until 26 May 2024, 2 June 2024 or 9 June 2024,
+   `1)` Group phase will start at 5 May 2024 and will last, depending on total number of Participtants, until 26 May 2024, 2 June 2024 or 9 June 2024,
 
    1b). in the case of the need for overtimes, deadline for phase may be extended by a week,
 
-   2). condition of joining the phase is joining the registration phase, no decision by Organizers on non-admitting to participtating in Championships and respecting provisions of the Championships Rules,
+   `2)` condition of joining the phase is joining the registration phase, no decision by Organizers on non-admitting to participtating in Championships and respecting provisions of the Championships Rules,
 
-   2b). <a id="point-2-3-2b"></a>32 Participtants will be exluded from participation in Group Phase, where 4 of them are participtants of semifinals of *Heroes of Might and Magic III XXV Anniversary Championship - Warmup* tournament, and other 28 will be choosen based on Kammer Rating System and skill level in Heroes III diagnosis by Organizers,
+   `2b)` <a id="point-2-3-2b"></a>32 Participtants will be exluded from participation in Group Phase, where 4 of them are participtants of semifinals of *Heroes of Might and Magic III XXV Anniversary Championship - Warmup* tournament, and other 28 will be choosen based on Kammer Rating System and skill level in Heroes III diagnosis by Organizers,
 
-   3). in group phase, Participtants will be divided randomly for groups based on baskets based on Kammer Ranking System, as far as possible in the same number of Participtants per group,
+   `3)` in group phase, Participtants will be divided randomly for groups based on baskets based on Kammer Ranking System, as far as possible in the same number of Participtants per group,
 
-   4). average number of Participtants per group will be determined after the end of registration phase, based on number of Participtants, however it won't be higher than 8,
+   `4)` average number of Participtants per group will be determined after the end of registration phase, based on number of Participtants, however it won't be higher than 8,
 
-   5). Matches will be played in round-robin system in the groups,
+   `5)` Matches will be played in round-robin system in the groups,
 
-   6). Matches will be played in Bo1 system,
+   `6)` Matches will be played in Bo1 system,
 
-   7). for a win Participtant gets 1 point, in the case of defeat they get 0 point, in the case of a draw Match should be repeated
+   `7)` for a win Participtant gets 1 point, in the case of defeat they get 0 point, in the case of a draw Match should be repeated
 
-   8). two Participtants with highest number of points in each group will be phase winners,
+   `8)` two Participtants with highest number of points in each group will be phase winners,
 
-   9). if two or more Participtants in one group score the same number of points, the result of direct Matches between these Participtants decides,
+   `9)` if two or more Participtants in one group score the same number of points, the result of direct Matches between these Participtants decides,
 
-   10). <a id="point-2-3-10"></a>n the case where the result of direct Matches does not allow for a clear indication of the winners (e.g. let three Participtants A, B and C be in one group and have the same number of points, Participtant A won the direct Match with Participtant B, B with C, and C of A) overtime should be played,
+   `10)` <a id="point-2-3-10"></a>n the case where the result of direct Matches does not allow for a clear indication of the winners (e.g. let three Participtants A, B and C be in one group and have the same number of points, Participtant A won the direct Match with Participtant B, B with C, and C of A) overtime should be played,
 
-   11). in the event that the situation in [paragraph 10).](#point-2-3-10) repeats itself as a result of overtime, the Organizers will decide the order in the group by coin flip in accordance with [paragraph 12).](#point-2-3-12),
+   `11)` in the event that the situation in [paragraph `10)`](#point-2-3-10) repeats itself as a result of overtime, the Organizers will decide the order in the group by coin flip in accordance with [paragraph `12)`](#point-2-3-12),
 
-   12). <a id="point-2-3-12"></a>the coinflip is carried out by one of the Organizers in the presence of all Participtants affected by it. The entire procedure should be recorded by one of the Organizers,
+   `12)` <a id="point-2-3-12"></a>the coinflip is carried out by one of the Organizers in the presence of all Participtants affected by it. The entire procedure should be recorded by one of the Organizers,
 
 4. Knockout phase:
 
-   1). knockout phase will start at the day of end of group phase and will last, depending on total number of Participtants, from 14 to 16 weeks,
+   `1)` knockout phase will start at the day of end of group phase and will last, depending on total number of Participtants, from 14 to 16 weeks,
 
-   2). condition of joining the phase is winning the group phase or being exluded from playing in group phase according to [paragraph 2b). point 3 of this chapter](#point-2-3-2b),
+   `2)` condition of joining the phase is winning the group phase or being exluded from playing in group phase according to [paragraph `2b)` point 3 of this chapter](#point-2-3-2b),
 
-   3). in the knockout phase, Participants will play in pairs which will be determined based on places taken in the previous phase, and secondly based on number of points gained in the previous phase,
+   `3)` in the knockout phase, Participants will play in pairs which will be determined based on places taken in the previous phase, and secondly based on number of points gained in the previous phase,
 
-   3b). Participants mentioned in [paragraph 2b). point 3 of this chapter](#point-2-3-2b), will be treated as Participants, who taken the first place in group and gained maximum number of points in it,
+   `3b)` Participants mentioned in [paragraph `2b)` point 3 of this chapter](#point-2-3-2b), will be treated as Participants, who taken the first place in group and gained maximum number of points in it,
 
-   4). Matches will be played in Bo3 system,
+   `4)` Matches will be played in Bo3 system,
 
-   5). in the case of win, Participant advances to the next round, in the case of lose they are eliminated from the Championships,
+   `5)` in the case of win, Participant advances to the next round, in the case of lose they are eliminated from the Championships,
 
-   6). deadline for playing Match in this phase will be 2 weeks,
+   `6)` deadline for playing Match in this phase will be 2 weeks,
 
-   7). 2 winners of semifinals and 2 losers of semifinals will advance to the Grand Championships Finals,
+   `7)` 2 winners of semifinals and 2 losers of semifinals will advance to the Grand Championships Finals,
 
 5. Grand Championships Finals:
 
-   1). Grand Championships Finals will start at the 22 September 2024 and will last to 6 October 2024,
+   `1)` Grand Championships Finals will start at the 22 September 2024 and will last to 6 October 2024,
 
-   2). condition of joining the phase is advancing to semifinals of the knockout phase,
+   `2)` condition of joining the phase is advancing to semifinals of the knockout phase,
 
-   3). in this phase 2 Bo3 Matches will be played. First between 2 winners of knockout phase semifinals - final, and second between 2 losers of knockout phase semifinals - match for third place.
+   `3)` in this phase 2 Bo3 Matches will be played. First between 2 winners of knockout phase semifinals - final, and second between 2 losers of knockout phase semifinals - match for third place.
 
 6. By agreement of both Participants, Bo1 Match can be played in Bo3 system and Bo3 Match in Bo5 system.
 
@@ -147,11 +148,11 @@
 
 8. In case of problems with playing the Match on time:
 
-   1). at the request of the Participant, the Organizers may extend the deadline for playing the Match by one day,
+   `1)` at the request of the Participant, the Organizers may extend the deadline for playing the Match by one day,
 
-   2). at the request of both Match Participtants and with the consent of the Participant who would be faced by the winner of the Match in which there is a problem with playing on time Organizers may extend the deadline for playing the Match for further date. In such a situation, its Participants should previously arrange the date of the Match in the next phase with their potential opponent there and then provide it to the Organizers.
+   `2)` at the request of both Match Participtants and with the consent of the Participant who would be faced by the winner of the Match in which there is a problem with playing on time Organizers may extend the deadline for playing the Match for further date. In such a situation, its Participants should previously arrange the date of the Match in the next phase with their potential opponent there and then provide it to the Organizers.
 
-   3). at the request of both Match Participtants or by decision of the Organizers, Match playing system may be changed from Bo3 to Bo1.
+   `3)` at the request of both Match Participtants or by decision of the Organizers, Match playing system may be changed from Bo3 to Bo1.
 
 9. In the case of problems with finding a Match date, Organizers, on Participtant request or by their decision, can order a juidical date for this Match.
 
@@ -188,36 +189,36 @@
 
 8. By singing up to the Championships Participtant:
 
-   1). Accepts Privacy Policy of the Championships,
+   `1)` Accepts Privacy Policy of the Championships,
 
-   2). Grants the Organizers a non-transferable and non-exclusive right to retransmit, record and make available selected Parties played in the Championships for the purpose of providing commentary and archiving. The Organizers may share this right with third parties.
+   `2)` Grants the Organizers a non-transferable and non-exclusive right to retransmit, record and make available selected Parties played in the Championships for the purpose of providing commentary and archiving. The Organizers may share this right with third parties.
 
 9. Starting from the 1/32 phase of the knouckout phase, the Participant is obliged to posting informaction about planned date of the Party on Discord Server on `#schedule` channel:
 
-   1). In the 1/32 phase of the knouckout phase before the Party starts,
+   `1)` In the 1/32 phase of the knouckout phase before the Party starts,
 
-   2). In the 1/16 phase of the knouckout phase 24 hours before the Party starts,
+   `2)` In the 1/16 phase of the knouckout phase 24 hours before the Party starts,
 
-   3). In the 1/8 phase of the knouckout phase 48 hours before the Party starts,
+   `3)` In the 1/8 phase of the knouckout phase 48 hours before the Party starts,
 
-   4). In the 1/2 phase of the knouckout phase and in the Grand Championships Finals 72 hours before the Party starts.
+   `4)` In the 1/2 phase of the knouckout phase and in the Grand Championships Finals 72 hours before the Party starts.
 
 > [!IMPORTANT]
 > Organizers encourage to posting informaction about planned date of the Party on Discord Server on `#schedule` channel also in earlier phases.
 
-10. Starting from the 1/32 phase of the knouckout phase, the Participtant is obliged to broadcast all their Parties.
+10. Starting from the 1/32 phase of the knouckout phase, the Participant is obliged to stream all of their Parties. The stream should be conducted on the Twitch, YouTube or on the voice channel on the H3gg Discord Server. The Participant is obliged to post a link to the stream on the `#streams` channel on the H3gg Discord Server.
 
 11. If the Party is rebroadcast by the Organizers, the Participant is additionally obliged, for the duration of the Party, to:
 
-    1). Hide all external overlays, e.g. advertisements, banners, overlays informing about the Match status, visible on the Participant's broadcast,
+    `1)` Hide all external overlays, e.g. advertisements, banners, overlays informing about the Match status, visible on the Participant's broadcast,
 
-    2). Set the Heroes III resolution from 1180x664 to 1365x768.
+    `2)` Set the Heroes III resolution from 1180x664 to 1365x768.
 
 12. In the both Matches of Grand Championships Finals every Participatns is obliged, for the duration of the Party, to:
 
-    1). Put on transmision the image shared from the webcam on the broadcast. If the Participant does not have the equipment needed to meet this requirement, the Organizers will make every effort to provide such equipment for the duration of the Match,
+    `1)` Put on transmision the image shared from the webcam on the broadcast. If the Participant does not have the equipment needed to meet this requirement, the Organizers will make every effort to provide such equipment for the duration of the Match,
 
-    2). Set the Heroes III resolution to 1180x664.
+    `2)` Set the Heroes III resolution to 1180x664.
 
 ## 4. Gameplay
 
@@ -225,15 +226,15 @@
 
 2. Match preparation:
 
-   1). One Participtant creates a room in the HotA lobby (they will be referred to as the host), the other Participtant joins the room in the lobby created by the host (they will be referred to as the guest),
+   `1)` One Participtant creates a room in the HotA lobby (they will be referred to as the host), the other Participtant joins the room in the lobby created by the host (they will be referred to as the guest),
 
 3. Template selecting:
 
-   1). templates that will be used for Parties in Championships can be found in [Templates Regulations](Templates_Regulations_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament.md),
+   `1)` templates that will be used for Parties in Championships can be found in [Templates Regulations](Templates_Regulations_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament.md),
 
-   2). in the case of Bo1 Match, Participants eliminate templates in ABBA system, where A is coin flip winner, until one template remains,
+   `2)` in the case of Bo1 Match, Participants eliminate templates in ABBA system, where A is coin flip winner, until one template remains,
 
-   3). in the case of Bo3 Match:
+   `3)` in the case of Bo3 Match:
    <ul style="list-style: none;">
 
    a) coinflip winner choose template, that will be played in first Party in Match,
@@ -243,37 +244,36 @@
    c)Participants eliminate templates in ABBA system, where A is winner of coinflip, until one template remains, this template will be played in third Party in Match.
    </ul>
 
-4. Wybór koloru oraz zamku:
+4. Color and town selection:
 
-   1). On non-mirror templates (6lm10f fixed, Conquest, Duel 2.69R, Jebus Cross, Jebus Outcast 2.96A):
+   `1)` On non-mirror templates (6lm10f fixed, Conquest, Duel 2.69R, Jebus Cross, Jebus Outcast 2.96A):
    <ul style="list-style: none;">
 
    a) The towns are drawn using the Random Town vs Random Town option; if two identical towns are drawn, the drawing should be repeated,
 
-   b) Participtants can request a reroll of towns and banning 0-2 drawn towns. Fee for reroll is diffrent on each template and is determined by Templates Regulations The winner of the coin flip is the first to declare their willingness to reroll. There is a maximum of one such ban per Participtant per Match. If the same pair of towns is drawn as before the reroll, the drawing should be made again,
+   b) Participtants can request a reroll of towns and banning 0-2 drawn towns by 500 gold fee. The winner of the coin flip is the first to declare their willingness to reroll. There is a maximum of one such ban per Participtant per Match. If the same pair of towns is drawn as before the reroll, the drawing should be made again,
 
    c) The bidding for the town and color begins with the Participant who won the coin flip. The first bidding refers to the towns, the second to the color.
    </ul>
-   2). On mirror templates (h3dm3_nc, mt_Jebus, mt_Nebula):
+   `2)` On mirror templates (h3dm3_nc, mt_Jebus, mt_Nebula):
    <ul style="list-style: none;">
 
    a) Town is drawn using Random Town option,
 
-   b) Participtants can request a reroll of town and banning 0-1 drawn towns. Fee for reroll is diffrent on each template and is determined by Templates Regulations The winner of the coin flip is the first to declare their willingness to reroll. There is a maximum of one such ban per Participtant per Match,
+   b) Participtants can request a reroll of town and banning 0-1 drawn towns by 500 gold fee. The winner of the coin flip is the first to declare their willingness to reroll. There is a maximum of one such ban per Participtant per Match,
 
    c) The bidding for color begins with the Participant, who won the coin flip.
    </ul>
-   3). Selecting starting heroes on mirror templates other than mt_MP 2.0:
+   `3)` Selecting starting heroes on mirror templates (where player A is winner of bidding for color):
    <ul style="list-style: none;">
-   a) Red player bans 0-3 heroes,
+   a) player A bans 0-3 heroes,
 
-   b) The blue player chooses one of the remaining starting heroes in the drawn faction,
+   b) player B chooses one of the remaining starting heroes in the drawn faction,
 
-   c) The blue player chooses one of the remaining starting heroes in the drawn faction.
+   c) player A chooses one of the remaining starting heroes in the drawn faction.
    </ul>
 
 ## 5. Restarts
-Restarty
 
 1. Each of Participtant has two subjectives restarts per Party in the first day (2 x 111) or one restarts in the second day (1 x 112) on non-mirror templates, and on mirror templates they have one restart in the first day per Party.
 
@@ -281,7 +281,7 @@ Restarty
 
 3. After using all subjective restarts, Participant can use technical restarts. Additional conditions that must be meet to use those restarts, are determined in [Technichal Restarts Regulations](Technical_Restarts_Regulations_of_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament.md).
 
-4. Participants can also use early meeting restarts. They are available if there is an interaction between Participtants in turn 115 on fast roads and 116 on medium roads, each Participtant has the right to request a restart of the early encounter, but this is not obligatory. Participtant interaction is defined as any Participtant-to-Participtant combat or takeover. Early encounter restarts can only be used if subjective restarts are no longer available.
+4. Participants can also use early meeting restarts. They are available if there is an interaction between Participtants in turn 115 on fast roads and 116 on medium roads, each Participtant has the right to request a restart of the early encounter, but this is not obligatory. Participtant interaction is defined as any Participtant-to-Participtant combat or takeover. Early encounter restarts can only be used if subjective restarts are no longer available. This doesnt apply to mirror templates.
 
 5. None of the restarts can be used to changing starting hero or starting bonus.
 
@@ -301,35 +301,35 @@ Restarty
 
 1. The Organizers have several options at their disposal to punish Participtants for non-compliance with the Regulations. The penalty levels are defined as follows:
 
-   1). Warning - given for small infractions. First warning does not lead to any other consequences, but each next does:
+   `1)` Warning - given for small infractions. First warning does not lead to any other consequences, but each next does:
    <ul style="list-style: none">
    a) Second warning - walkover for Party (Match in case of Bo1)
 
    b) Third warning - disqualification
    </ul>
-   2). Walkover for Party (Match in case of Bo1) - given for medium infractions, including not meeting the deadlines,
+   `2)` Walkover for Party (Match in case of Bo1) - given for medium infractions, including not meeting the deadlines,
 
-   3). Disqualification - given for major infractions.
+   `3)` Disqualification - given for major infractions.
 
 2. Organizers in cases where irregularities related to playing a Party occurred, can order repeating it.
 
 3. If one of the Participants fails to show up on the scheduled date of the Party, the following procedure should be used (whenever the procedure includes phrases in the second person, the Organizers mean the Participant playing in a given Party who is waiting for his late opponent):
 
-   1). After 5 minutes from the scheduled time, inform the Organizers that you are starting this procedure, then message your opponent on private message with EXACTLY the following text, without quotes: “I have attempted to play a Party with you, and now I am waiting for you to show up. According to the rules, you have 15 minutes from now to show up and start playing the game, or otherwise you will be penalized with a game forfeit. I have informed the Organizers that this procedure has begun."
+   `1)` After 5 minutes from the scheduled time, inform the Organizers that you are starting this procedure, then message your opponent on private message with EXACTLY the following text, without quotes: “I have attempted to play a Party with you, and now I am waiting for you to show up. According to the rules, you have 15 minutes from now to show up and start playing the game, or otherwise you will be penalized with a game forfeit. I have informed the Organizers that this procedure has begun."
 
-   2). <a id="point-7-3-2"></a>After 15 minutes from the scheduled time, if the opponent has not shown up yet, you have to inform the Organizers of this situation, then message your opponent with EXACTLY the following text, without quotes: “You have not shown up as requested. I have informed the Organizer of this situation. I am waiting another 15 minutes for your response, but according to regulations you will be devoid of subjective restarts in this Party.”
+   `2)` <a id="point-7-3-2"></a>After 15 minutes from the scheduled time, if the opponent has not shown up yet, you have to inform the Organizers of this situation, then message your opponent with EXACTLY the following text, without quotes: “You have not shown up as requested. I have informed the Organizer of this situation. I am waiting another 15 minutes for your response, but according to regulations you will be devoid of subjective restarts in this Party.”
 
-   3). If the opponent does show up after sending the message in [paragraph 2).](#point-7-3-2) and before the 30 minutes after scheduled time, they won't be able to use subjective restarts in this Party.
+   `3)` If the opponent does show up after sending the message in [paragraph `2)`](#point-7-3-2) and before the 30 minutes after scheduled time, they won't be able to use subjective restarts in this Party.
 
-   4). After 30 minutes from the scheduled time, if the opponent has not shown up yet, you have to inform the Organizers of this situation, then message your opponent with EXACTLY the following text, without quotes: “You have not shown up as requested. I have informed the Organizer of this situation. I am not waiting for your respone any longer.”
+   `4)` After 30 minutes from the scheduled time, if the opponent has not shown up yet, you have to inform the Organizers of this situation, then message your opponent with EXACTLY the following text, without quotes: “You have not shown up as requested. I have informed the Organizer of this situation. I am not waiting for your respone any longer.”
 
-   5). If the opponent does show up and is willing to start the Party immediately, you should allow for the necessary setup time. If the opponent is visibly stalling for time, you should report this to the Organizers. As a rule of thumb, you should allow for at least 5 extra minutes to let the opponent connect to the online lobby and join the room.
+   `5)` If the opponent does show up and is willing to start the Party immediately, you should allow for the necessary setup time. If the opponent is visibly stalling for time, you should report this to the Organizers. As a rule of thumb, you should allow for at least 5 extra minutes to let the opponent connect to the online lobby and join the room.
 
-   6). If this was a Party scheduled by the Organizers, and you neglect to inform the Staff about the fact that your opponent is missing, a double game forfeit may be given at Organizers discretion.
+   `6)` If this was a Party scheduled by the Organizers, and you neglect to inform the Staff about the fact that your opponent is missing, a double game forfeit may be given at Organizers discretion.
 
-   7). You may delay this procedure up to an hour if you wish to give more time to your opponent - but you are not required to do so.
+   `7)` You may delay this procedure up to an hour if you wish to give more time to your opponent - but you are not required to do so.
 
-   8). For the procedure listed above, you have to provide proof in the form of a screenshot that you have messaged your opponent and they have not responded on time. Additionally, you should provide the proof of the scheduled date and time for the Party. If this procedure was used for an ambiguously scheduled Party, the Organizers may decide to not penalize the missing player depending on the full context. The Organizers may also decide to reduce the severity of the penalty in case of force majeure.
+   `8)` For the procedure listed above, you have to provide proof in the form of a screenshot that you have messaged your opponent and they have not responded on time. Additionally, you should provide the proof of the scheduled date and time for the Party. If this procedure was used for an ambiguously scheduled Party, the Organizers may decide to not penalize the missing player depending on the full context. The Organizers may also decide to reduce the severity of the penalty in case of force majeure.
 
 4. Participtant can appeal against the Organizers decision up to the day of the end of the phase following the phase in which they received the penalty.
 
