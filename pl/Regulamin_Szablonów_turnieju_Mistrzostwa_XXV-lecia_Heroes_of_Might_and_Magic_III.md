@@ -54,7 +54,7 @@
 
 ## 3. Dodatkowe zasady obowiązujące na szablonach
 
-1. Na szablonie Duel 2.69S wejście lub wyjście ze strefy 2 lub 3, do strefy 1, jeżeli nie został pokonany choć jeden ze strażników broniących odpowiednio wejścia lub wyjścia do niej, jest zakazane.
+1. Na szablonie Duel 2.69S wejście lub wyjście ze strefy 2 lub 3, do strefy 1, jeżeli nie został pokonany choć jeden ze strażników broniących przejść między choć jedną ze stref 2 i 3 a strefą 1, jest zakazane.
 
 2. Na szablonach Duel 2.69S i Jebus Outcast 2.96A Partia powinna być zakończona najpóźniej w 2 dniu, 4 tygodnia, 2 miesiąca (242), poprzez walkę między bohaterami, z której ucieczka równoznaczna jest z porażką.
 
@@ -64,12 +64,11 @@
 
 5. Na szablonie Jebus Cross Partia powinna zostać zakończona najpóźniej w 1 dniu 1 tygodnia drugiego miesiąca (211). Jeżeli przed tym terminem żaden z Uczestników nie poddał Partii, ani nie została ona zakończona w żaden inny sposób, to zwycięzcą Partii zostaje Uczestnik, który kontroluje znajdujące się na strefie 1 (pustynia), miasto natywne tej strefy (tzw. środek/miasto środkowe).
 
-    > [!IMPORTANT]
-    > Frakcje natywną dla danej strefy można poznać po występujacych na niej siedliskach stworzeń, oraz frakcji stworzeń, które można znaleźć w puszkach pandory.
-    >
-    > W przypadku braku pewności co do tego, które miasto jest natywne, zalecamy skontaktować się z sędziami
+> [!IMPORTANT]
+> Frakcje natywną dla danej strefy można poznać po występujacych na niej siedliskach stworzeń, oraz frakcji stworzeń, które można znaleźć w puszkach pandory.\
+> W przypadku braku pewności co do tego, które miasto jest natywne, zalecamy skontaktować się z sędziami
 
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 6 kwietnia 2024
+### Regulamin ostatni raz aktualizowany był dnia 20 kwietnia 2024

@@ -39,4 +39,4 @@ Jeżeli chcesz poprosić o swoje dane, czy też je zmodyfikować lub usunąć, m
 <br/>
 <hr>
 
-### Polityka prywatności ostatni raz aktualizowana była 24 lutego 2024
+### Polityka prywatności ostatni raz aktualizowana była 20 kwietnia 2024

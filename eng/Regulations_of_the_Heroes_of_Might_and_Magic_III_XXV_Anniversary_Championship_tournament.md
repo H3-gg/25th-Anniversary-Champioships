@@ -6,7 +6,7 @@
 
 2. Championships are organised without any profit for Organizators. All rights to the Heroes III brand, logo and trademarks belong to Ubisoft Entertainment SA.
 
-3. The rules of the Championships are governed by this document (hereinafter reffered to as the Regulations), [Templates Regulations](Templates_Regulations_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament_for_6th_April_2024), [Technical Restarts Regulations](Technical_Restarts_Regulations_of_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament_for_6th_April_2024) and [Privacy Policy of the Championships](Privacy_Policy_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championship_tournament_for_8th_April_2024) (hereinafter reffered to collectively as the Championships Rules).
+3. The rules of the Championships are governed by this document (hereinafter reffered to as the Regulations), [Templates Regulations](Templates_Regulations_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament.md), [Technical Restarts Regulations](Technical_Restarts_Regulations_of_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament.md) and [Privacy Policy of the Championships](Privacy_Policy_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championship_tournament.md) (hereinafter reffered to collectively as the Championships Rules).
 
 4. Whenever the Championships Rules refer to:
 
@@ -37,7 +37,7 @@
    | Vuko             |     vuko0202     |
    | Zuuzel           |      zuuzel      |
 
-6. Championships Privacy Policy is specified in the [relevant document](Privacy_Policy_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championship_tournament_for_8th_April_2024).
+6. Championships Privacy Policy is specified in the [relevant document](Privacy_Policy_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championship_tournament.md).
 
 7. Organizers reserve the right to change Championships Rules in any moment, without giving a reason.
 
@@ -184,7 +184,7 @@
 
 6. Participants should refrain from publicly accusing others of violating the Championships Rules. Any problem of this type should be reported to the Organizers for confirmation.
 
-7. The standard rules of HotA lobby online competitions apply to the Championships. The link to them can be found [here](https://h3hota.com/en/rules). If a rule of HotA's regulations conflicts with the Championships Rules, the Championships Rules shall prevail.
+7. The standard rules of HotA lobby online competitions apply to the Championships. The link to them can be found <a href="https://h3hota.com/en/rules" target="__blank">here</a>. If a rule of HotA's regulations conflicts with the Championships Rules, the Championships Rules shall prevail.
 
 8. By singing up to the Championships Participtant:
 
@@ -202,8 +202,8 @@
 
    4). In the 1/2 phase of the knouckout phase and in the Grand Championships Finals 72 hours before the Party starts.
 
-   > [!IMPORTANT]
-   > Organizers encourage to posting informaction about planned date of the Party on Discord Server on `#schedule` channel also in earlier phases.
+> [!IMPORTANT]
+> Organizers encourage to posting informaction about planned date of the Party on Discord Server on `#schedule` channel also in earlier phases.
 
 10. Starting from the 1/32 phase of the knouckout phase, the Participtant is obliged to broadcast all their Parties.
 
@@ -229,7 +229,7 @@
 
 3. Template selecting:
 
-   1). templates that will be used for Parties in Championships can be found in [Templates Regulations](Templates_Regulations_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament_for_6th_April_2024),
+   1). templates that will be used for Parties in Championships can be found in [Templates Regulations](Templates_Regulations_of_the_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament.md),
 
    2). in the case of Bo1 Match, Participants eliminate templates in ABBA system, where A is coin flip winner, until one template remains,
 
@@ -238,9 +238,9 @@
 
    a) coinflip winner choose template, that will be played in first Party in Match,
 
-   b) loser of first Party in Match choose template, that will be played in second Party in Match,
+   b) loser of coinflip choose template, that will be played in second Party in Match,
 
-   c) in the case of draw, Participants eliminate templates in ABBA system, where A is loser of second party in Match, until one template remains, this template will be played in third Party in Match.
+   c)Participants eliminate templates in ABBA system, where A is winner of coinflip, until one template remains, this template will be played in third Party in Match.
    </ul>
 
 4. Wybór koloru oraz zamku:
@@ -279,7 +279,7 @@ Restarty
 
 2. The red player makes the first decision about a subjective restart, followed by the blue player. The blue player has the right to decide on a subjective restart at 112 and 113, counted as a subjective restart from the previous one, up to a maximum of 5 seconds from accepting the prompt to start the turn.
 
-3. After using all subjective restarts, Participant can use technical restarts. Additional conditions that must be meet to use those restarts, are determined in [Technichal Restarts Regulations](Technical_Restarts_Regulations_of_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament_for_6th_April_2024).
+3. After using all subjective restarts, Participant can use technical restarts. Additional conditions that must be meet to use those restarts, are determined in [Technichal Restarts Regulations](Technical_Restarts_Regulations_of_Heroes_of_Might_and_Magic_III_XXV_Anniversary_Championships_tournament.md).
 
 4. Participants can also use early meeting restarts. They are available if there is an interaction between Participtants in turn 115 on fast roads and 116 on medium roads, each Participtant has the right to request a restart of the early encounter, but this is not obligatory. Participtant interaction is defined as any Participtant-to-Participtant combat or takeover. Early encounter restarts can only be used if subjective restarts are no longer available.
 
@@ -336,4 +336,4 @@ Restarty
 <br/>
 <hr>
 
-### Regulations was last time updated at the 6 April 2024
+### Regulations was last time updated at the 20th April 2024

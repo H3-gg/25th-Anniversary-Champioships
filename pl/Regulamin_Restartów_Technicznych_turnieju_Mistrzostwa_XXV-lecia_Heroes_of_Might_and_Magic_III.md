@@ -29,7 +29,7 @@
 
     2). Wszystkie drogi ekspansji przez połączenia drogowe są zablokowane, z czego część przez strażników z ustępu 1)., a część dróg ekspansji przez połączenia drogowe w strefie 21 lub 25 jest zablokowana przez strażników do stref 17 lub 7 dla strefy 21 lub stref 16 lub 20 dla strefy 25, którzy to blokuje przejście do stref 3 lub 11 dla stefy 21 lub stref 4 lub 12 dla strefy 25, których to strażników nie da się obejść, lub ich obejście wymaga wykorzystania co najmniej 2000 punktów ruchu na każdego strażnika, a ich pokonanie powoduje straty na poziomie 70% wojska startowego (definiowane jako sumaryczne HP wojska dostępnego na start i możliwego do wykupu w pierwszej turze gry) przy możliwie optymalnym rozegraniu walki i zakładając neutralne morale, na każdego strażnika.
 
-3. Restarty techniczne na szablonie Conquest mogą zostać wykorzstane jeżeli:
+3. Restarty techniczne na szablonie Conquest mogą zostać wykorzystane jeżeli:
 
     1). Na strefie startowej (strefy 9 i 12) brakuje choć jednego z następujących obiektów:
     - 1 x Dwelling (siedlisko) poziomu 7,
@@ -73,4 +73,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 6 kwietnia 2024
+### Regulamin ostatni raz aktualizowany był dnia 20 kwietnia 2024

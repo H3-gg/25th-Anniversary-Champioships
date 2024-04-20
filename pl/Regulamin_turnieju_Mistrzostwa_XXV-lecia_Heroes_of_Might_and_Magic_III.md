@@ -6,16 +6,16 @@
 
 2. Mistrzostwa organizowane są bez żadnego zysku dla Organizatorów. Wszelkie prawa do marki, logo oraz znaków towarowych Heroes III posiada Ubisoft Entertainment SA.
 
-3. O zasadach Mistrzostw stanowi niniejszy dokument (zwany dalej Regulaminem), [Regulamin Szablonów](Regulamin_Szablonów_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III_na_dzień_6_kwietnia_2024.md), [Regulamin Restartów Technicznych](Regulamin_Restartów_Technicznych_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III_na_dzień_6_kwietnia_2024), [Polityka Prywatności Mistrzostw](Polityka_Prywatności_turnieju_Mistrzostwa_XXV-lecia_Heores_of_Might_and_Magic_III_na_dzień_24_lutego_2024) (zwane dalej zbiorczo Zasadami Mistrzostw).
+3. O zasadach Mistrzostw stanowi niniejszy dokument (zwany dalej Regulaminem), [Regulamin Szablonów](https://github.com/H3-gg/25th-Anniversary-Champioships/blob/main/pl/Regulamin_Szablon%C3%B3w_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III.md), [Regulamin Restartów Technicznych](https://github.com/H3-gg/25th-Anniversary-Champioships/blob/main/pl/Regulamin_Restart%C3%B3w_Technicznych_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III.md), [Polityka Prywatności Mistrzostw](https://github.com/H3-gg/25th-Anniversary-Champioships/blob/main/pl/Polityka_Prywatno%C5%9Bci_turnieju_Mistrzostwa_XXV-lecia_Heores_of_Might_and_Magic_III.md) (zwane dalej zbiorczo Zasadami Mistrzostw).
 
 4. Ilekroć w Zasadach Mistrzostw mowa o:
 
    - **Organizatorach**, należy przez to rozumieć osoby wymienione w [punkcie 5. rozdziału 1](#point-1-5).
    - **Serwerze Discord**, należy przez to rozumieć serwer H3gg na platformie Discord [link](https://www.discord.com/invite/WPXRs5aX89),
-   - **Uczestnikach** lub **Uczestniku**, należy przez to rozumieć osoby biorące udział w którejkolwiek z faz w Mistrzostwach,
+   - **Uczestnikach** lub **Uczestniku**, należy przez to rozumieć, w zależnosći od kontekstu: osoby biorące udział w którejkolwiek z faz w Mistrzostwach, osoby biorące udział w danym Meczu lub, w przypadku liczby pojedynczej: każdą pojedynczą osobę biorącą udział w którejkolwiek z faz w Mistrzostwach lub osobę biorącą udział w Meczu,
    - **Meczu**, należy przez to rozumieć wszystkie rozgrywki w ramach Mistrzostw, między dwoma danymi Uczestnikami, w danej fazie w Mistrzostwach,
    - **Partii**, należy przez to rozumieć pojedynczą rozgrywkę w Meczu,
-   - **Stronie Mistrzostw**, należy przez to rozumieć stronę na witrynie h3.gg [link](htpps://www.h3.gg/). //todo dodać link
+   - **Stronie Mistrzostw**, należy przez to rozumieć stronę na witrynie h3.gg [link](htpps://www.h3.gg/).
    - **Systemie Rankingowym Kammera**, należy przez to rozumieć ranking oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg w okresie od 9 czerwca 2022 do 21 kwietnia 2024. Używa on wag dla szablonów, które można uzyskać od Organizatorów na wniosek.
 
 5. <a id="point-1-5"></a>Organizatorem Mistrzostw jest H3gg. Dokładny skład osobowy kadry Mistrzostw wraz z podanym tagiem na platformie Discord:
@@ -28,6 +28,7 @@
    | Fafhrd           | .fafhrd          |
    | Kacper           | kacperpolok      |
    | Keszu            | keszu            |
+   | Kosixon          | kosixon          |
    | Kubaryt          | kubaryt          |
    | Makiki           | makiki           |
    | Niechcic         | niechcic         |
@@ -37,7 +38,7 @@
    | Vuko             | vuko0202         |
    | Zuuzel           | zuuzel           |
 
-6. Polityka Prywatności Mistrzostw określona jest w [odpowiednim dokumencie](Polityka_Prywatności_turnieju_Mistrzostwa_XXV-lecia_Heores_of_Might_and_Magic_III_na_dzień_24_lutego_2024).
+6. Polityka Prywatności Mistrzostw określona jest w [odpowiednim dokumencie](https://github.com/H3-gg/25th-Anniversary-Champioships/blob/main/pl/Polityka_Prywatno%C5%9Bci_turnieju_Mistrzostwa_XXV-lecia_Heores_of_Might_and_Magic_III.md).
 
 7. Organizatorzy zastrzegają sobie prawo do zmiany Zasad Mistrzostw, w każdej chwili, bez podania przyczyny.
 
@@ -152,7 +153,7 @@
 
    3). na wniosek obu Uczestników Meczu, lub decyzją Organizatora, system rozgrywek może zostanie zmieniony w danym Meczu na Bo1.
 
-9. W przypadku problemów ze znalezieniem wspólnego terminu Partii, Organizatorzy, na wniosek jednego z Uczestników Meczu lub własną deyczją, mogą wyznaczyć termin sędziowski dla danej Partii.
+9. W przypadku problemów ze znalezieniem wspólnego terminu Partii, Organizatorzy, na wniosek jednego z Uczestników Meczu lub własną decyzją, mogą wyznaczyć termin sędziowski dla danej Partii.
 
 ## 3. Fair play, wymagane zgody i wymagania dotyczące prowadzenia Partii
 
@@ -183,7 +184,7 @@
 
 6. Uczestnicy powinni powstrzymać się od publicznych oskarżeń co do naruszenia Zasad Mistrzostw wobec innych. Każdy problem tego typu powinien być zgłoszony Organizatorom w celu potwierdzenia.
 
-7. W Mistrzostwach obowiązują standardowe reguły rozgrywek HotA Lobby online. Link do nich można znaleźć [tutaj](https://h3hota.com/en/rules). Jeśli zasada regulaminu HotA stoi w sprzeczności z Zasadami Mistrzostw, Zasady Mistrzostw mają pierwszeństwo.
+7. W Mistrzostwach obowiązują standardowe reguły rozgrywek HotA Lobby online. Link do nich można znaleźć <a href="https://h3hota.com/en/rules" target="__blank">tutaj</a>. Jeśli zasada regulaminu HotA stoi w sprzeczności z Zasadami Mistrzostw, Zasady Mistrzostw mają pierwszeństwo.
 
 8. Zapisując się do Mistrzostw Uczestnik:
 
@@ -201,8 +202,8 @@
 
    4). W fazie 1/2 fazy pucharowej oraz w Wielkich Finałach Mistrzostw 72 godziny przed rozpoczęciem Partii.
 
-   > [!IMPORTANT]
-   > Organizatorzy zachęcają do zamieszczania informacji o planowanej dacie Partii na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
+> [!IMPORTANT]
+> Organizatorzy zachęcają do zamieszczania informacji o planowanej dacie Partii na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
 
 10. Począwszy od fazy 1/32 fazy pucharowej włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Partii.
 
@@ -230,7 +231,7 @@
 
 3. Wybór szablonów:
 
-   1). szablony obowiązujące w turnieju można znaleźć w [Regulaminie Szablonów](Regulamin_Szablonów_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III_na_dzień_6_kwietnia_2024.md),
+   1). szablony obowiązujące w turnieju można znaleźć w [Regulaminie Szablonów](https://github.com/H3-gg/25th-Anniversary-Champioships/blob/main/pl/Regulamin_Szablon%C3%B3w_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III.md),
 
    2). w przypadku Meczu Bo1, Uczestnicy eliminują szablony w systemie ABBA, gdzie A to zwycięzca rzutu monetą, aż do pozostania jednego szablonu,
 
@@ -239,9 +240,9 @@
 
    a) zwycięzca rzutu monetą wybiera szablon, na którym zostanie rozegrana pierwsza Partia w Meczu,
 
-   b) przegrany pierwszej Partii w Meczu wybiera szablon, na którym zostanie rozegrana druga Partia w Meczu,
+   b) przegrany rzutu monetą wybiera szablon, na którym zostanie rozegrana druga Partia w Meczu,
 
-   c) w przypadku remisu, Uczestnicy eliminują szablony w systemie ABBA, gdzie A to przegrany drugiej Partii w Meczu, aż do pozostania jednego szablonu, na którym rozegrana zostanie trzecia Partia.
+   c) Uczestnicy Meczu eliminują szablony w systemie ABBA, gdzie A to zwycięzca rzutu monetą, aż do pozostania jednego szablonu, na którym rozegrana zostanie trzecia Partia.
    </ul>
 
 4. Wybór koloru oraz miasta:
@@ -280,7 +281,7 @@
 
 2. Pierwszy decyzję o subiektywnym restarcie podejmuje gracz czerwony, a następnie gracz niebieski. Gracz niebieski ma prawo w 112 i 113 podjąć decyzję o subiektywnym restarcie, liczoną jako subiektywny restart z poprzedniej, maksymalnie do 5 sekund od zaakceptowania monitu o rozpoczęciu tury.
 
-3. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą również wykorzystać restarty techniczne. Dodatkowe przesłanki, które muszą zostać spełnione, aby taki restart mógł być wykorzystany, określone są w Regulaminie [Restartów Technicznych](Regulamin_Restartów_Technicznych_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III_na_dzień_6_kwietnia_2024) //todo dodać link
+3. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą również wykorzystać restarty techniczne. Dodatkowe przesłanki, które muszą zostać spełnione, aby taki restart mógł być wykorzystany, określone są w Regulaminie [Restartów Technicznych](Regulamin_Restartów_Technicznych_turnieju_Mistrzostwa_XXV-lecia_Heroes_of_Might_and_Magic_III.md) //todo dodać link
 
 4. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą skorzystać z restartów wczesnego spotkania. Dostępne są one, jeżeli nastąpi interakcja między Uczestnikami w turze 115 dla szybkich i 116 dla średnich dróg, każdy z Uczestników ma prawo zażądać restartu wczesnego spotkania, jednak nie jest to obowiązkowe. Interakcja między Uczestnikami jest zdefiniowana jako jakakolwiek walka między Uczestnikami lub przejęcie.
 
@@ -344,4 +345,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 6 kwietnia 2024
+### Regulamin ostatni raz aktualizowany był dnia 20 kwietnia 2024
