@@ -247,7 +247,7 @@
 
 4. Wybór koloru oraz miasta:
 
-   `1)` Na szablonach nielustrzanych (6lm10f fixed, Conquest, Duel 2.69R, Jebus Cross, Jebus Outcast 2.96A):
+   `1)` Na szablonach nielustrzanych (6lm10a, Conquest 1.4, Duel 2.69S, Jebus Cross, Jebus Outcast 2.96A):
    <ul style="list-style: none;">
 
    a) Wylosowanie miast następuje przez opcję Random Town vs Random Town, w przypadku wylosowania dwóch identycznych miast, losowanie należy powtórzyć,
@@ -256,7 +256,8 @@
 
    c) Licytację o miasto oraz o kolor rozpoczyna Uczestnik, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru.
    </ul>
-   `2)` Na szablonach lustrznych (h3dm3_nc, mt_Jebus, mt_Nebula):
+
+   `2)` Na szablonach lustrzanych (h3dm1, mt_Jebus, mt_Nebula 1.3):
    <ul style="list-style: none;">
 
    a) Wylosowanie miasta następuje przez opcję Random Town,
@@ -265,6 +266,7 @@
 
    c) Licytację o kolor rozpoczyna Uczestnik, który wygrał rzut monetą.
    </ul>
+
    `3)` Wybór bohaterów startowych na szablonach lustrzanych (gdzie gracz A to zwycięzca licytacji o kolor):
    <ul style="list-style: none;">
 

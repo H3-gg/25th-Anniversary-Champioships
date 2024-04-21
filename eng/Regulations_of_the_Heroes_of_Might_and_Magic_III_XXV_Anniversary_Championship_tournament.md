@@ -246,7 +246,7 @@
 
 4. Color and town selection:
 
-   `1)` On non-mirror templates (6lm10f fixed, Conquest, Duel 2.69R, Jebus Cross, Jebus Outcast 2.96A):
+   `1)` On non-mirror templates (6lm10a, Conquest 1.4, Duel 2.69S, Jebus Cross, Jebus Outcast 2.96A):
    <ul style="list-style: none;">
 
    a) The towns are drawn using the Random Town vs Random Town option; if two identical towns are drawn, the drawing should be repeated,
@@ -255,7 +255,8 @@
 
    c) The bidding for the town and color begins with the Participant who won the coin flip. The first bidding refers to the towns, the second to the color.
    </ul>
-   `2)` On mirror templates (h3dm3_nc, mt_Jebus, mt_Nebula):
+
+   `2)` On mirror templates (h3dm1, mt_Jebus, mt_Nebula 1.3):
    <ul style="list-style: none;">
 
    a) Town is drawn using Random Town option,
@@ -264,6 +265,7 @@
 
    c) The bidding for color begins with the Participant, who won the coin flip.
    </ul>
+
    `3)` Selecting starting heroes on mirror templates (where player A is winner of bidding for color):
    <ul style="list-style: none;">
    a) player A bans 0-3 heroes,
