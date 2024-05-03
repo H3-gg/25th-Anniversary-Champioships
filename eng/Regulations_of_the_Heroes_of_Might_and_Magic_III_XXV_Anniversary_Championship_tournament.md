@@ -50,6 +50,8 @@
 
 11. Prize pool will be publified after start of 1/8 phase of knockout phase.
 
+12. Organizers fund shipping of prizes up to 40 euro. In case of shipping costs exceeding 40 euro, the Participant is obliged to pay the remaining part of the shipping costs.
+
 ## 2. Championships Format
 
 1. Championships will be divided into 4 phases:
@@ -338,4 +340,4 @@
 <br/>
 <hr>
 
-### Regulations was last time updated at the 20th April 2024
+### Regulations was last time updated at the 3rd May 2024

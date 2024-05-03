@@ -50,6 +50,8 @@
 
 11. Pula nagród zostanie opublikowana po rozpoczęciu fazy 1/8 fazy pucharowej.
 
+12. Organizatorzy finansują wysyłkę nagród do 40 euro. W przypadku kosztów wysyłki przekraczających 40 euro, Uczestnik by odebrać nagrodę jest zobowiązany do opłacenia pozostałej części kosztów wysyłki.
+
 ## 2. Format Mistrzostw
 
 1. Mistrzostwa zostaną podzielone na 4 fazy:
@@ -347,4 +349,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 20 kwietnia 2024
+### Regulamin ostatni raz aktualizowany był dnia 3 maja 2024
