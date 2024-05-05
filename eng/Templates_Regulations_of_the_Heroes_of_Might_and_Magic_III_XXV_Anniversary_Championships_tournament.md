@@ -45,14 +45,16 @@
     |:-------------------:|:--------:|:-------------------:|:---------:|:-----------------:|:----------:|:-----------------:|:------------------:|
     |       6lm10a        |   XL+U   |        2(+6)        |  Medium   |      Strong       |    160%    | 18:00+07:00+01:15 |        121         |
     |      Conquest 1.4   |   XH-U   |        2(+6)        |   Fast    |      Strong       |    130%    | 20:00+08:00+01:15 |        123         |
-    |     Duel 2.69S      |   XL+U   |          2          |   Fast    |      Strong       |    160%    | 02:00+01:00+00:20 |        127         |
+    |     Duel 2.69S      |   XL+U   |          2          |   Fast    |      Strong       |    160%    | 02:00+01:10+00:20 |        127         |
     |        h3dm1        |   L+U    |          2          |  Medium   |      Strong       |    160%    | 20:00+07:00+01:15 |        115         |
     |     Jebus Cross     |   XL-U   |          2          |   Fast    |      Strong       |    160%    | 14:00+07:00+01:30 |        116         |
-    | Jebus Outcast 2.96A |    XL    |          2          |   Fast    |      Strong       |    160%    | 02:00+01:00+00:20 |        131         |
+    | Jebus Outcast 2.96A |    XL    |          2          |   Fast    |      Strong       |    160%    | 02:00+01:10+00:20 |        131         |
     |      mt_Jebus       |   L+U    |          2          |   Fast    |      Strong       |    160%    | 14:00+07:00+01:30 |        116         |
     |    mt_Nebula 1.3    |   XL+U   |        2(+6)        |   Fast    |      Strong       |    160%    | 20:00+08:00+01:15 |        121         |
 
 3. From 1/16 phase of knockout phase, on Jebus Cross and mt_Jebus templates, default simultanoeus turns settings are 114.
+
+4. From knockout phase on Duel 2.69S template, default timer settings are 02:00+01:00+00:20
 
 ## 3. Additional rules on templates
 
@@ -77,4 +79,4 @@
 <br/>
 <hr>
 
-### Regulations were last time updated at 6th April 2024
+### Regulations were last time updated at 5th May 2024
