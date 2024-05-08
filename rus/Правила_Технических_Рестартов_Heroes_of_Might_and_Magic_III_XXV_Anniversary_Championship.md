@@ -1,4 +1,4 @@
-# Правила Технических Рестартов турнира *Heroes of Might and Magic III XXV Anniversary Championship*
+# Правила Технических Рестартов турнира *Heroes of Might and Magic III XXV Anniversary Championship by Lenovo Legion*
  
 ## 1. Общие правила
 
@@ -72,4 +72,4 @@
 <br/>
 <hr>
 
-### Правила были в последний раз обновлены 6 апреля 2024 года.
+### Правила были в последний раз обновлены 8 мая 2024 года.

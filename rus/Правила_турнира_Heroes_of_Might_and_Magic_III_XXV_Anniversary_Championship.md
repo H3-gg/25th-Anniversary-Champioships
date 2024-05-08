@@ -1,8 +1,8 @@
-# Правила турнира *Heroes of Might and Magic III XXV Anniversary Championship*
+# Правила турнира *Heroes of Might and Magic III XXV Anniversary Championship by Lenovo Legion*
 
 ## 1. Введение
 
-1. *Heroes of Might and Magic III XXV Anniversary Championship* (далее - Чемпионат) - это турнир по игре Heroes of Might and Magic III с дополнением Horn of the Abyss (далее - Heroes III). Целью Чемпионата является предоставление игрокам из разных частей сообщества Heroes III игрового поля (поэтому в пуле шаблонов присутствуют различные типы шаблонов), а также популяризация игры и сообщества Heroes III в интернете.
+1. *Heroes of Might and Magic III XXV Anniversary Championship by Lenovo Legion* (далее - Чемпионат) - это турнир по игре Heroes of Might and Magic III с дополнением Horn of the Abyss (далее - Heroes III). Целью Чемпионата является предоставление игрокам из разных частей сообщества Heroes III игрового поля (поэтому в пуле шаблонов присутствуют различные типы шаблонов), а также популяризация игры и сообщества Heroes III в интернете.
 
 2. Турнир проводится без прибыли для организаторов. Все права на бренд, логотип и торговые марки Heroes III принадлежат Ubisoft Entertainment SA.
 
@@ -351,4 +351,4 @@
 <br/>
 <hr>
 
-### Правила были в последний раз обновлены 5 мая 2024 года
+### Правила были в последний раз обновлены 8 мая 2024 года
