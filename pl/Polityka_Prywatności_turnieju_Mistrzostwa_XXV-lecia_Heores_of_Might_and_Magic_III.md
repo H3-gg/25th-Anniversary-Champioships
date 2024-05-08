@@ -1,8 +1,8 @@
-# Polityka Prywatności turnieju *Mistrzostwa XXV-lecia Heores of Might and Magic III*
+# Polityka Prywatności turnieju *Mistrzostwa XXV-lecia Heores of Might and Magic III by Lenovo Legion*
 
 ## 1. Wstęp
 
-To jest nasza Polityka Prywatności, która zawiera informacje o tym jakie dane zbieramy i przechowujemy, a także w jaki sposób je wykorzystujemy. Za każdym razem kiedy zwracamy się w drugiej osobie, mamy na myśli wszystkich uczestników *Mistrzostwa XXV-lecia Heores of Might and Magic III*. Za każdym razem kiedy zwracamy się w pierwszej osobie, mamy na myśli Organizatorów.
+To jest nasza Polityka Prywatności, która zawiera informacje o tym jakie dane zbieramy i przechowujemy, a także w jaki sposób je wykorzystujemy. Za każdym razem kiedy zwracamy się w drugiej osobie, mamy na myśli wszystkich uczestników *Mistrzostwa XXV-lecia Heores of Might and Magic III by Lenovo Legion*. Za każdym razem kiedy zwracamy się w pierwszej osobie, mamy na myśli Organizatorów.
 
 Od czasu do czasu możemy zaktualizować Politykę Prywatności. Zmiany będą miały efekt tuż po wprowadzeniu. Jeżeli nie zgadzasz się z niniejszą Polityką Prywatności, nie uczestnicz w Mistrzostwach.
 
@@ -39,4 +39,4 @@ Jeżeli chcesz poprosić o swoje dane, czy też je zmodyfikować lub usunąć, m
 <br/>
 <hr>
 
-### Polityka prywatności ostatni raz aktualizowana była 20 kwietnia 2024
+### Polityka prywatności ostatni raz aktualizowana była 8 maja 2024

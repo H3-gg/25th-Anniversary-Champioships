@@ -1,8 +1,8 @@
-# Privacy Policy of the *Heroes of Might and Magic III XXV Anniversary Championship* tournament
+# Privacy Policy of the *Heroes of Might and Magic III XXV Anniversary Championship by Lenovo Legion* tournament
 
 ## 1. Introduction
 
-This is our Privacy Policy, which contains the information about what data we collect, record, and how we use it. The terms “you” and “your” refer to all current or past participants of the *Heroes of Might and Magic III XXV Anniversary Championship* Tournament. The terms “we”, “us”, “our” refers to the Organizers.
+This is our Privacy Policy, which contains the information about what data we collect, record, and how we use it. The terms “you” and “your” refer to all current or past participants of the *Heroes of Might and Magic III XXV Anniversary Championship by Lenovo Legion* Tournament. The terms “we”, “us”, “our” refers to the Organizers.
 We may update this Privacy Policy from time to time. Changes to the Privacy Policy will be effective immediately. If you do not agree to this Privacy Policy, please do not participate in the Tournament.
 The privacy policy may be translated to other languages - but the binding text is in the Polish language.
 
@@ -39,4 +39,4 @@ If you wish to request, remove or change your data, you can contact us via Disco
 <br/>
 <hr>
 
-### Privacy policy last time was updated at the 8th April 2024
+### Privacy policy last time was updated at the 8th May 2024

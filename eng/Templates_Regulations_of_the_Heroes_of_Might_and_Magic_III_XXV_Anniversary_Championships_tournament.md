@@ -1,4 +1,4 @@
-# Templates Regulations of the *Heroes of Might and Magic III XXV Anniversary Championships*
+# Templates Regulations of the *Heroes of Might and Magic III XXV Anniversary Championships by Lenovo Legion*
 
 ## 1. Templates in mandatory in the Championships
 
@@ -79,4 +79,4 @@
 <br/>
 <hr>
 
-### Regulations were last time updated at 5th May 2024
+### Regulations were last time updated at 8th May 2024

@@ -1,4 +1,4 @@
-# Technical Restarts Regulations of *Heroes of Might and Magic III XXV Anniversary Championships* tournament
+# Technical Restarts Regulations of *Heroes of Might and Magic III XXV Anniversary Championships by Lenovo Legion* tournament
 
 ## 1. General provisions
 
@@ -72,4 +72,4 @@
 <br/>
 <hr>
 
-### Regulations last time was updated at 6 April 2024
+### Regulations last time was updated at 8th May 2024

@@ -1,4 +1,4 @@
-# Regulamin Szablonów w turnieju *Mistrzostwa XXV-lecia Heroes of Might and Magic III*
+# Regulamin Szablonów w turnieju *Mistrzostwa XXV-lecia Heroes of Might and Magic III by Lenovo Legion*
 
 ## 1. Szablony obowiązujące w Mistrzostwach
 
@@ -79,4 +79,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 5 maja 2024
+### Regulamin ostatni raz aktualizowany był dnia 8 maja 2024

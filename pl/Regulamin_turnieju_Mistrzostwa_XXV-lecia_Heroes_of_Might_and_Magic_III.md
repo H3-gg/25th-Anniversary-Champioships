@@ -1,8 +1,8 @@
-# Regulamin turnieju *Mistrzostwa XXV-lecia Heroes of Might and Magic III*
+# Regulamin turnieju *Mistrzostwa XXV-lecia Heroes of Might and Magic III by Lenovo Legion*
 
 ## 1. Wstęp
 
-1. *Mistrzostwa XXV-lecia Heroes of Might and Magic III* (dalej zwane Mistrzostwami) są turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Heroes III). Celem Mistrzostw jest zapewnienie pola do rozgrywek graczom z różnych części społeczności Heroes III, dlatego pula szablonów łączy w sobie różne rodzaje szablonów; a także promocja gry i społeczności Heroes III w internecie.
+1. *Mistrzostwa XXV-lecia Heroes of Might and Magic III by Lenovo Legion* (dalej zwane Mistrzostwami) są turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Heroes III). Celem Mistrzostw jest zapewnienie pola do rozgrywek graczom z różnych części społeczności Heroes III, dlatego pula szablonów łączy w sobie różne rodzaje szablonów; a także promocja gry i społeczności Heroes III w internecie.
 
 2. Mistrzostwa organizowane są bez żadnego zysku dla Organizatorów. Wszelkie prawa do marki, logo oraz znaków towarowych Heroes III posiada Ubisoft Entertainment SA.
 
@@ -123,9 +123,11 @@
 
    `2)` warunkiem dołączenia do fazy pucharowej jest zwycięstwo w fazie grupowej albo wyłączenie z rozgrywek w fazie grupowej zgodnie z [ustępem `2b)` punktu 3 tego rozdziału](#point-2-3-2b),
 
-   `3)` w fazie pucharowej Uczestnicy zmierzą się w parach, które zostaną ustalone na podstawie miejsc zajętych w poprzedniej fazie, oraz w drugiej kolejności liczby punktów zdobytych w poprzedniej fazie,
+   `3)` w fazie pucharowej Uczestnicy zmierzą się w parach, które zostaną ustalone na podstawie miejsc zajętych w poprzedniej fazie, w drugiej kolejności liczby punktów zdobytych w poprzedniej fazie, a w trzeciej kolejności na podstawie Systemu Rankingowego Kammera, biorącego okres od 9 czerwca 2022 do końca fazy grupowej,
 
-   `3b)` Uczestnicy wymienieni w [ustępie `2b)` punktu 3 tego rozdziału](#point-2-3-2b), będą traktowani tak jak Uczestnicy, którzy zajęli 1 miejsce w grupie i zdobyli maksymalną liczbę punktów w tejże,
+   `3b)` dwóch Uczestników, którzy w fazie grupowej grali w tej samej grupie, nie może grać ze sobą w pierwszej rundzie fazy pucharowej,
+
+   `3c)` Uczestnicy wymienieni w [ustępie `2b)` punktu 3 tego rozdziału](#point-2-3-2b), będą traktowani tak jak Uczestnicy, którzy zajęli 1 miejsce w grupie i zdobyli maksymalną liczbę punktów w tejże,
 
    `4)` Mecze rozgrywane będą w systemie Bo3,
 
@@ -220,6 +222,8 @@
     `1)` Nałożyć na transmisję obraz udostępniany z kamery internetowej. Jeżeli Uczestnik nie posiada sprzętu potrzebnego do spełnienia tego wymogu, Organizatorzy dołożą wszelkich starań, aby na czas Meczu taki sprzęt udostępnić,
 
     `2)` Ustawić rozdzielczość Heroes III na 1180x664.
+
+13. Zabronione jest korzystanie przez więcej niż jedną osobę z danego konta w Mistrzostwach.
 
 ## 4. Rozgrywka
 
@@ -349,4 +353,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 3 maja 2024
+### Regulamin ostatni raz aktualizowany był dnia 8 maja 2024

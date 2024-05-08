@@ -1,4 +1,4 @@
-# Regulamin Restartów Technicznych w turnieju *Mistrzostwa XXV-lecia Heroes of Might and Magic III*
+# Regulamin Restartów Technicznych w turnieju *Mistrzostwa XXV-lecia Heroes of Might and Magic III by Lenovo Legion*
 
 ## 1. Ogólne ustalenia
 
@@ -73,4 +73,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 20 kwietnia 2024
+### Regulamin ostatni raz aktualizowany był dnia 8 maja 2024

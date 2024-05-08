@@ -1,8 +1,8 @@
-# Regulations of the *Heroes of Might and Magic III XXV Anniversary Championship* tournament
+# Regulations of the *Heroes of Might and Magic III XXV Anniversary Championship by Lenovo Legion* tournament
 
 ## 1. Introduction
 
-1. *Heroes of Might and Magic III XXV Anniversary Championship* (hereinafter reffered to as the Championships) is a tournament played in Heroes of Might and Magic III with Horn of the Abyss addon (hereinafter referred to as Heroes III). Purpose of the Championships is providing a playing field for players from different parts of the Heroes III community, therefore template pool is combined from various templates; and Heroes III community promotion in the internet.
+1. *Heroes of Might and Magic III XXV Anniversary Championship by Lenovo Legion* (hereinafter reffered to as the Championships) is a tournament played in Heroes of Might and Magic III with Horn of the Abyss addon (hereinafter referred to as Heroes III). Purpose of the Championships is providing a playing field for players from different parts of the Heroes III community, therefore template pool is combined from various templates; and Heroes III community promotion in the internet.
 
 2. Championships are organised without any profit for Organizators. All rights to the Heroes III brand, logo and trademarks belong to Ubisoft Entertainment SA.
 
@@ -124,9 +124,11 @@
 
    `2)` condition of joining the phase is winning the group phase or being exluded from playing in group phase according to [paragraph `2b)` point 3 of this chapter](#point-2-3-2b),
 
-   `3)` in the knockout phase, Participants will play in pairs which will be determined based on places taken in the previous phase, and secondly based on number of points gained in the previous phase,
+   `3)` in the knockout phase, Participants will play in pairs which will be determined based on places taken in the previous phase, and secondly based on number of points gained in the previous phase, and thirdly based on Kammer Ranking System, taking the period from 9 June 2022 to the end of the group phase,
 
-   `3b)` Participants mentioned in [paragraph `2b)` point 3 of this chapter](#point-2-3-2b), will be treated as Participants, who taken the first place in group and gained maximum number of points in it,
+   `3b)` two Participants, who in group phase played in the same group, cannot play with each other in the first round of the knockout phase,
+
+   `3c)` Participants mentioned in [paragraph `2b)` point 3 of this chapter](#point-2-3-2b), will be treated as Participants, who taken the first place in group and gained maximum number of points in it,
 
    `4)` Matches will be played in Bo3 system,
 
@@ -221,6 +223,8 @@
     `1)` Put on transmision the image shared from the webcam on the broadcast. If the Participant does not have the equipment needed to meet this requirement, the Organizers will make every effort to provide such equipment for the duration of the Match,
 
     `2)` Set the Heroes III resolution to 1180x664.
+
+13. Using the same account by more than one person in the Championships is forbidden.
 
 ## 4. Gameplay
 
@@ -340,4 +344,4 @@
 <br/>
 <hr>
 
-### Regulations was last time updated at the 3rd May 2024
+### Regulations was last time updated at the 8th May 2024
