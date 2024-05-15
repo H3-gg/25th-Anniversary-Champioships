@@ -283,7 +283,7 @@
 
 ## 5. Restarts
 
-1. Each of Participtant has two subjectives restarts per Party in the first day (2 x 111) or one restarts in the second day (1 x 112) on non-mirror templates, and on mirror templates they have one restart in the first day per Party.
+1. Each of Participtant has two subjectives restarts per Party in the first day (2 x 111) or one restarts in the second day (1 x 112) on non-mirror templates, and on mirror templates and Duel 2.69S and Jebus Outcast 2.96A they have one restart in the first day per Party.
 
 2. The red player makes the first decision about a subjective restart, followed by the blue player. The blue player has the right to decide on a subjective restart at 112 and 113, counted as a subjective restart from the previous one, up to a maximum of 5 seconds from accepting the prompt to start the turn.
 
@@ -344,4 +344,4 @@
 <br/>
 <hr>
 
-### Regulations was last time updated at the 8th May 2024
+### Regulations was last time updated at the 15th May 2024

@@ -50,7 +50,7 @@
     |     Jebus Cross     |     XL-U     |          2          | Szybkie  |     Silne     |    160%    | 14:00+07:00+01:30 |        116         |
     | Jebus Outcast 2.96A |      XL      |          2          | Szybkie  |     Silne     |    160%    | 02:00+01:15+00:20 |        131         |
     |      mt_Jebus       |     L+U      |          2          | Szybkie  |     Silne     |    160%    | 14:00+07:00+01:30 |        116         |
-    |    mt_Nebula 1.3    |     XL+U     |        2(+6)        | Szybkie  |     Silne     |    160%    | 20:00+08:00+01:15 |        121         |
+    |    mt_Nebula 1.3    |     XL+U     |          2          | Szybkie  |     Silne     |    160%    | 20:00+08:00+01:15 |        121         |
 
 3. Od fazy 1/16 fazy pucharowej, na szablonach Jebus Cross oraz mt_Jebus, według domyślnych ustawień, tury symultaniczne obowiązują do 114.
 
@@ -79,4 +79,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 8 maja 2024
+### Regulamin ostatni raz aktualizowany był dnia 15 maja 2024

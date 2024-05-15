@@ -285,7 +285,7 @@
 
 ## 5. Restarty
 
-1. Na wszystkich szablonach lustrzanych każdy z Uczestników ma w danej Partii do dyspozycji po jednym subiektywnym restarcie w pierwszym dniu (111). Na pozostałych szablonach każdy z Uczestników ma w danej Partii do dyspozycji dwa subiektywne restarty w pierwszym dniu (2 x 111) lub jeden restart w dniu drugim (1 x 112).
+1. Na wszystkich szablonach lustrzanych i Duel 2.69S oraz Jebus Outcast 2.96A każdy z Uczestników ma w danej Partii do dyspozycji po jednym subiektywnym restarcie w pierwszym dniu (111). Na pozostałych szablonach każdy z Uczestników ma w danej Partii do dyspozycji dwa subiektywne restarty w pierwszym dniu (2 x 111) lub jeden restart w dniu drugim (1 x 112).
 
 2. Pierwszy decyzję o subiektywnym restarcie podejmuje gracz czerwony, a następnie gracz niebieski. Gracz niebieski ma prawo w 112 i 113 podjąć decyzję o subiektywnym restarcie, liczoną jako subiektywny restart z poprzedniej, maksymalnie do 5 sekund od zaakceptowania monitu o rozpoczęciu tury.
 
@@ -353,4 +353,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 8 maja 2024
+### Regulamin ostatni raz aktualizowany był dnia 15 maja 2024

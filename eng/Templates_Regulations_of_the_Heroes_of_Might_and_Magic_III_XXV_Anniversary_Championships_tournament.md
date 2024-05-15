@@ -50,7 +50,7 @@
     |     Jebus Cross     |   XL-U   |          2          |   Fast    |      Strong       |    160%    | 14:00+07:00+01:30 |        116         |
     | Jebus Outcast 2.96A |    XL    |          2          |   Fast    |      Strong       |    160%    | 02:00+01:10+00:20 |        131         |
     |      mt_Jebus       |   L+U    |          2          |   Fast    |      Strong       |    160%    | 14:00+07:00+01:30 |        116         |
-    |    mt_Nebula 1.3    |   XL+U   |        2(+6)        |   Fast    |      Strong       |    160%    | 20:00+08:00+01:15 |        121         |
+    |    mt_Nebula 1.3    |   XL+U   |          2          |   Fast    |      Strong       |    160%    | 20:00+08:00+01:15 |        121         |
 
 3. From 1/16 phase of knockout phase, on Jebus Cross and mt_Jebus templates, default simultanoeus turns settings are 114.
 
@@ -79,4 +79,4 @@
 <br/>
 <hr>
 
-### Regulations were last time updated at 8th May 2024
+### Regulations were last time updated at 15th May 2024
