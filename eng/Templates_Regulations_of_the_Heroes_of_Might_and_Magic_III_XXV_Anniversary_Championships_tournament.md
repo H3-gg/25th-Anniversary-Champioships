@@ -76,7 +76,9 @@
 > Native faction for given zone, can be recognized by dwellings occuring in this zone and faction of monsters, that can be found in Pandora Boxes.\
 > If you are unsure about which town is zone native to, we recommend contacting the judges.
 
+6. Retreat from a fight between two Participants on the Duel 2.69S template is prohibited.
+
 <br/>
 <hr>
 
-### Regulations were last time updated at 15th May 2024
+### Regulations were last time updated at 13th June 2024
