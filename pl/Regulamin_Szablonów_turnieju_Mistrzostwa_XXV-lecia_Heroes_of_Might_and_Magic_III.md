@@ -76,7 +76,9 @@
 > Frakcje natywną dla danej strefy można poznać po występujacych na niej siedliskach stworzeń, oraz frakcji stworzeń, które można znaleźć w puszkach pandory.\
 > W przypadku braku pewności co do tego, które miasto jest natywne, zalecamy skontaktować się z sędziami
 
+6. Ucieczka z walki między dwoma Uczestnikami na szablonie Duel 2.69S jest zakazana.
+
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 15 maja 2024
+### Regulamin ostatni raz aktualizowany był dnia 13 czerwca 2024
