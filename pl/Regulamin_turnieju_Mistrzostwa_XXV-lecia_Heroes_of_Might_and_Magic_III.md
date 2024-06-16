@@ -225,6 +225,12 @@
 
 13. Zabronione jest korzystanie przez więcej niż jedną osobę z danego konta w Mistrzostwach.
 
+14. Rozmowy między Uczestnikami w trakcie trwania Partii powinny ograniczać się jedynie do kwestii koniecznych do wypełniania postanowień Zasad Mistrzostw, chyba, że obaj Uczestnicy wyrażą zgodę na prowadzenie innej rozmowy.
+
+15. Zabrania się Uczestnikom działania na szkodę Mistrzostw i działalności Organizatorów związanej z ich przeprowadzeniem.
+
+16. Zabrania się Uczestnikom nadmiernego przedłużania Partii i nadużywania zegara w walce.
+
 ## 4. Rozgrywka
 
 1. Partie powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Heroes III. W przypadku gdy HotA Lobby nie jest dostępne, Partię można rozegrać za pośrednictwem Hamachi lub Game Rangera.
@@ -307,6 +313,8 @@
 
 5. Mecz kończy się w momencie potwierdzenia wszystkich raportów z jego Partii.
 
+6. Organizatorzy, na wniosek obu Uczestników, lub własną decyzją, mogą zakończyć Partię przez arbitralne wskazanie zwycięzcy na podstawie oceny sytuacji w Partii.
+
 ## 7. Kary
 
 1. Organizatorzy mają do dyspozycji kilka możliwości w jakie mogą karać Uczestników za nieprzestrzeganie Zasad Mistrzostw. Poziomy kar zdefiniowane są w następujący sposób:
@@ -353,4 +361,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 15 maja 2024
+### Regulamin ostatni raz aktualizowany był dnia 13 czerwca 2024

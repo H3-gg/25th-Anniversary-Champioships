@@ -226,6 +226,12 @@
 
 13. Using the same account by more than one person in the Championships is forbidden.
 
+14. Conversations between Participants during a Party should be limited to matters necessary for fulfilling the provisions of the Championship Rules, unless both Participants agree to engage in a different conversation.
+
+15. Participants are prohibited from acting to the detriment of the Championships and the activities of the Organizers related to their conduct.
+
+16. Participants are prohibited from excessively prolonging a Party and abusing the timer during battles.
+
 ## 4. Gameplay
 
 1. Parties should take place via the HotA Lobby available in the Heroes III. If HotA Lobby is not available, Party can be played via Hamachi or Game Ranger.
@@ -305,6 +311,8 @@
 
 5. Match ends with moment of confirming all reports from its Parties.
 
+6. Organizers, at the request of both Participants or by their own decision, may end the Party by arbitrarily indicating the winner based on the assessment of the situation in the Match.
+
 ## 7. Punishments
 
 1. The Organizers have several options at their disposal to punish Participtants for non-compliance with the Regulations. The penalty levels are defined as follows:
@@ -344,4 +352,4 @@
 <br/>
 <hr>
 
-### Regulations was last time updated at the 15th May 2024
+### Regulations was last time updated at the 13th June = 2024
