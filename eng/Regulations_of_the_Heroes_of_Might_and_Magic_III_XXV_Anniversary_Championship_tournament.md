@@ -352,4 +352,4 @@
 <br/>
 <hr>
 
-### Regulations was last time updated at the 13th June = 2024
+### Regulations was last time updated at the 16th June 2024

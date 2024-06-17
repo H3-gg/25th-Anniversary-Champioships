@@ -81,4 +81,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 13 czerwca 2024
+### Regulamin ostatni raz aktualizowany był dnia 16 czerwca 2024

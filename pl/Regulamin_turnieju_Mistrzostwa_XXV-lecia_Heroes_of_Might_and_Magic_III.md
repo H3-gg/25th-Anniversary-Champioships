@@ -307,7 +307,7 @@
 
 2. Po zakończeniu Partii Uczestnicy są zobowiązani do podania haseł, które chronią zapisy Partii.
 
-3. Zwycięzca składa raport z Partii należy składać na Stronie Turnieju, jeżeli przegrany wyrazi taką chęć, może on złożyć raport za zwycięzcę.
+3. Zwycięzca składa raport z Partii, który należy składać na Stronie Turnieju, jeżeli przegrany wyrazi taką chęć, może on złożyć raport za zwycięzcę.
 
 4. Jeżeli raport nie zostanie potwierdzony w terminie Meczu, ani nie zostanie zgłoszone oszustwo w raporcie, zostaje on uznany za potwierdzony.
 
@@ -361,4 +361,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 13 czerwca 2024
+### Regulamin ostatni raz aktualizowany był dnia 17 czerwca 2024
