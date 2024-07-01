@@ -60,7 +60,7 @@
 
 1. Na szablonie Duel 2.69S wejście lub wyjście ze strefy 2 lub 3, jeżeli nie został pokonany choć jeden ze strażników broniących strefy 1, jest zakazane.
 
-2. Na szablonach Duel 2.69S oraz Jebus Outcast 2.69A Partia powinna zostać zakończona najpóźniej w 2 dniu 4 tygodnia drugiego miesiąca (242). Jeżeli przed tym terminem żaden z Uczestników nie poddał Partii, ani nie została ona zakończona w żaden inny sposób, to zwycięzcą Partii zostaje Uczestnik, który kontroluje znajdujące się na strefie 1 (pustynia), miasto natywne tej strefy (tzw. środek/miasto środkowe).
+2. Na szablonach Duel 2.69S oraz Jebus Outcast 2.69A Partia powinna zostać zakończona najpóźniej z zakończeniem 2 dnia 4 tygodnia drugiego miesiąca (242). Jeżeli przed tym terminem żaden z Uczestników nie poddał Partii, ani nie została ona zakończona w żaden inny sposób, to zwycięzcą Partii zostaje Uczestnik, który kontroluje znajdujące się na strefie 1 (pustynia), miasto natywne tej strefy (tzw. środek/miasto środkowe).
 
 > [!IMPORTANT]
 > Frakcje natywną dla danej strefy można poznać po występujacych na niej siedliskach stworzeń, oraz frakcji stworzeń, które można znaleźć w puszkach pandory.\
@@ -70,7 +70,7 @@
 
 4. Na szablonach Jebus Cross oraz mt_Jebus wejście do strefy lub wyjście ze strefy, jeżeli nie został pokonany choć jeden ze strażników broniących odpowiednio wejścia lub wyjścia do niej, jest zakazane.
 
-5. Na szablonie Jebus Cross Partia powinna zostać zakończona najpóźniej w 1 dniu 1 tygodnia drugiego miesiąca (211). Jeżeli przed tym terminem żaden z Uczestników nie poddał Partii, ani nie została ona zakończona w żaden inny sposób, to zwycięzcą Partii zostaje Uczestnik, który kontroluje znajdujące się na strefie 1 (pustynia), miasto natywne tej strefy (tzw. środek/miasto środkowe).
+5. Na szablonie Jebus Cross Partia powinna zostać zakończona najpóźniej z zakończeniem 1 dnia 1 tygodnia drugiego miesiąca (211). Jeżeli przed tym terminem żaden z Uczestników nie poddał Partii, ani nie została ona zakończona w żaden inny sposób, to zwycięzcą Partii zostaje Uczestnik, który kontroluje znajdujące się na strefie 1 (pustynia), miasto natywne tej strefy (tzw. środek/miasto środkowe).
 
 > [!IMPORTANT]
 > Frakcje natywną dla danej strefy można poznać po występujacych na niej siedliskach stworzeń, oraz frakcji stworzeń, które można znaleźć w puszkach pandory.\
@@ -81,4 +81,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 16 czerwca 2024
+### Regulamin ostatni raz aktualizowany był dnia 1 lipca 2024

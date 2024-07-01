@@ -265,7 +265,9 @@
 
    b) Participtants can request a reroll of towns and banning 0-2 drawn towns by 500 gold fee. The winner of the coin flip is the first to declare their willingness to reroll. There is a maximum of one such ban per Participtant per Match. If the same pair of towns is drawn as before the reroll, the drawing should be made again,
 
-   c) The bidding for the town and color begins with the Participant who won the coin flip. The first bidding refers to the towns, the second to the color.
+   c) The bidding for the town and color begins with the Participant who won the coin flip. The first bidding refers to the towns, the second to the color
+
+   d) The winner of each bidding chooses the town and color after all the biddings are completed.
    </ul>
 
    `2)` On mirror templates (h3dm1, mt_Jebus, mt_Nebula 1.3):
@@ -325,9 +327,11 @@
    </ul>
    `2)` Walkover for Party (Match in case of Bo1) - given for medium infractions, including not meeting the deadlines,
 
-   `3)` Disqualification - given for major infractions.
+   `3)` Disqualification - given for major infractions,
 
-2. Organizers in cases where irregularities related to playing a Party occurred, can order repeating it.
+   - The severity of the infraction is subject to the exclusive interpretation of the Organizers, and any interpretation by the Participant that differs from that of the Organizers cannot be used as a basis for appealing the Organizers' decision.
+
+2. Organizers in cases where irregularities related to playing a Party occurred, can order repeating it, or, in case where Party is still going, stoping it.
 
 3. If one of the Participants fails to show up on the scheduled date of the Party, the following procedure should be used (whenever the procedure includes phrases in the second person, the Organizers mean the Participant playing in a given Party who is waiting for his late opponent):
 
@@ -352,4 +356,4 @@
 <br/>
 <hr>
 
-### Regulations was last time updated at the 16th June 2024
+### Regulations was last time updated at the 1st July 2024

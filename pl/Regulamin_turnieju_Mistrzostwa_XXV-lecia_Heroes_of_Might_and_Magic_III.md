@@ -266,7 +266,9 @@
 
    b) Uczestnicy mogą zażądać ponownego losowania miast (tzw. *reroll*) i zbanowania 0-2 wylosowanych miast za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Uczestnika w ciągu Partii. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
 
-   c) Licytację o miasto oraz o kolor rozpoczyna Uczestnik, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru.
+   c) Licytację o miasto oraz o kolor rozpoczyna Uczestnik, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru,
+
+   d) wyboru miasta i koloru dokonuje zwycięzca danej licytacji po zakończeniu wszystkich licytacji.
    </ul>
 
    `2)` Na szablonach lustrzanych (h3dm1, mt_Jebus, mt_Nebula 1.3):
@@ -329,8 +331,11 @@
 
    `2)` Walkower na Partię (Mecz w przypadku *Bo1*) - otrzymywany za średnie przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem,
 
-   `3)` Dyskwalifikacja - otrzymywana za duże przewinienia.
-2. W sytuacjach, w których doszło do nieprawidłowości w rozegraniu Partii, Organizatorzy mogą nakazać jej powtórzenie.
+   `3)` Dyskwalifikacja - otrzymywana za duże przewinienia,
+
+   - waga przewinienia podlega wyłącznej interpretacji Organizatorów i inna jej interpretacja przez Uczestnika nie może być podstawą do odwołania się od decyzji Organizatorów.
+
+2. W sytuacjach, w których doszło do nieprawidłowości w rozegraniu Partii, Organizatorzy mogą nakazać jej powtórzenie, lub, jeżeli Partia nadal trwa, jej zatrzymanie.
 
 3. W przypadku kiedy jeden z Uczestników nie stawi się na ustalony termin gry, należy zastosować następującą procedurę (ilekroć w procedurze występują zwroty w drugiej osobie, Organizatorzy mają na myśli tego z Uczestników grających w danym Meczu, który czeka na swojego, spóźniającego się, przeciwnika):
 
@@ -361,4 +366,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 17 czerwca 2024
+### Regulamin ostatni raz aktualizowany był dnia 1 lipca 2024

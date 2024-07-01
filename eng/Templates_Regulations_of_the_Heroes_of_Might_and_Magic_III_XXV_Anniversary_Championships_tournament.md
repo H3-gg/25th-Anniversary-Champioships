@@ -58,7 +58,7 @@
 
 ## 3. Additional rules on templates
 
-1. On Duel 2.69S and Jebus Outcast 2.96A templates Party should be ended no later than second day of fourth week of second month (242). If before this date, none of the Party Participants surrendered or Party wasn't ended in any other way. Participant, who controls located in zone 1 (desert) native town of this zone (so-called middle/middle town), wins the Party.
+1. On Duel 2.69S and Jebus Outcast 2.96A templates Party should be ended no later than at the end of the second day of fourth week of second month (242). If before this date, none of the Party Participants surrendered or Party wasn't ended in any other way. Participant, who controls located in zone 1 (desert) native town of this zone (so-called middle/middle town), wins the Party.
 
 > [!IMPORTANT]
 > Native faction for given zone, can be recognized by dwellings occuring in this zone and faction of monsters, that can be found in Pandora Boxes.\
@@ -70,7 +70,7 @@
 
 4. On Jebus Cross and mt_Jebus templates, entering the zone or leaving the zone, if there wasn't defeated at least one of this zone guards, accordingly entry or exit of this zone, is forbidden.
 
-5. On Jebus Cross template Party should be ended no later than first day of first week of second month (211). If before this date, none of the Party Participants surrendered or Party wasn't ended in any other way. Participant, who controls located in zone 1 (desert) native town of this zone (so-called middle/middle town), wins the Party.
+5. On Jebus Cross template Party should be ended no later than at the end of the first day of first week of second month (211). If before this date, none of the Party Participants surrendered or Party wasn't ended in any other way. Participant, who controls located in zone 1 (desert) native town of this zone (so-called middle/middle town), wins the Party.
 
 > [!IMPORTANT]
 > Native faction for given zone, can be recognized by dwellings occuring in this zone and faction of monsters, that can be found in Pandora Boxes.\
@@ -81,4 +81,4 @@
 <br/>
 <hr>
 
-### Regulations were last time updated at 16th June 2024
+### Regulations were last time updated at 1st July 2024
