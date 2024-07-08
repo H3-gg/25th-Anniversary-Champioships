@@ -14,7 +14,7 @@
    - **Serwerze Discord**, należy przez to rozumieć serwer H3gg na platformie Discord [link](https://www.discord.com/invite/WPXRs5aX89),
    - **Uczestnikach** lub **Uczestniku**, należy przez to rozumieć, w zależnosci od kontekstu: osoby biorące udział w którejkolwiek z faz w Mistrzostwach, osoby biorące udział w danym Meczu lub, w przypadku liczby pojedynczej: każdą pojedynczą osobę biorącą udział w którejkolwiek z faz w Mistrzostwach lub osobę biorącą udział w Meczu,
    - **Meczu**, należy przez to rozumieć wszystkie rozgrywki w ramach Mistrzostw, między dwoma danymi Uczestnikami, w danej fazie w Mistrzostwach,
-   - **Partii**, należy przez to rozumieć pojedynczą rozgrywkę w Meczu,
+   - **Grze**, należy przez to rozumieć pojedynczą rozgrywkę w Meczu,
    - **Stronie Mistrzostw**, należy przez to rozumieć stronę na witrynie h3.gg [link](htpps://www.h3.gg/).
    - **Systemie Rankingowym Kammera**, należy przez to rozumieć ranking oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg oraz Liga Heroes w okresie od 9 czerwca 2022 do 21 kwietnia 2024. Używa on wag dla szablonów, które można uzyskać od Organizatorów na wniosek.
 
@@ -46,7 +46,7 @@
 
 9. W sytuacjach nieujętych Zasadami Mistrzostw decyzja Organizatorów jest wiążąca. Takie decyzje publikowane będą na Serwerze Discord.
 
-10. Organizatorzy zastrzegają sobie prawo do niedopuszczenia wybranej osoby do pełnienia funkcji komentatora lub hosta transmisji z Partii rozgrywanej w ramach Mistrzostw.
+10. Organizatorzy zastrzegają sobie prawo do niedopuszczenia wybranej osoby do pełnienia funkcji komentatora lub hosta transmisji z Gry rozgrywanej w ramach Mistrzostw.
 
 11. Pula nagród zostanie opublikowana po rozpoczęciu fazy 1/8 fazy pucharowej.
 
@@ -157,34 +157,34 @@
 
    `3)` na wniosek obu Uczestników Meczu, lub decyzją Organizatora, system rozgrywek może zostanie zmieniony w danym Meczu na Bo1.
 
-9. W przypadku problemów ze znalezieniem wspólnego terminu Partii, Organizatorzy, na wniosek jednego z Uczestników Meczu lub własną decyzją, mogą wyznaczyć termin sędziowski dla danej Partii.
+9. W przypadku problemów ze znalezieniem wspólnego terminu Gry, Organizatorzy, na wniosek jednego z Uczestników Meczu lub własną decyzją, mogą wyznaczyć termin sędziowski dla danej Gry.
 
-## 3. Fair play, wymagane zgody i wymagania dotyczące prowadzenia Partii
+## 3. Fair play, wymagane zgody i wymagania dotyczące prowadzenia Gry
 
 1. Wykorzystywanie crashów do zyskiwania przewagi jest zakazane. Po wczytaniu mapy z powodu błędu Heroes III należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd.
 
-2. Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej Partii. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony:
+2. Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej Grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony:
 
    | Sposób na zdobycie informacji | Jego legalność w Mistrzostwach |
    | :---                          | :----                         |
-   | Porady (osoba trzecia dostarcza Uczestnikowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst | Dozwolone, jeżeli podpowiedź nie posiada znaczącego wpływ na rozgrywkę oraz nie sprawia, że Uczestnik zmieni swój plan na rozgrywkę. Uczestnicy korzystający z tego typu porad, jeżeli nie spełniają one wymogów wymienionych w 1 zdaniu, mogą zostać ukarani, każdy tego typu przypadek należy zgłosić do Organizatorów; Uczestnicy transmitujący Partię powinni usuwać naruszające Zasady Mistrzostw podpowiedzi, najlepiej za pośrednictwem moderacji,|
+   | Porady (osoba trzecia dostarcza Uczestnikowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst | Dozwolone, jeżeli podpowiedź nie posiada znaczącego wpływ na rozgrywkę oraz nie sprawia, że Uczestnik zmieni swój plan na rozgrywkę. Uczestnicy korzystający z tego typu porad, jeżeli nie spełniają one wymogów wymienionych w 1 zdaniu, mogą zostać ukarani, każdy tego typu przypadek należy zgłosić do Organizatorów; Uczestnicy transmitujący Grę powinni usuwać naruszające Zasady Mistrzostw podpowiedzi, najlepiej za pośrednictwem moderacji,|
    | Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo| Zakazane |
-   | Spoilery (osoba trzecia dostarcza Uczestnikowi informacje których nie można wydedukować oglądając tylko jego stronę rozgrywki) | Zakazane - jeśli Uczestnika przeczyta spoiler powinien grać tak jakby go nie widział, a osoba udzielająca spoileru powinna zostać wyciszona przez gracza bądź moderatora czatu, na czas trwania Partii |
-   | Ghosting (obecność na transmisji przeciwnika lub komentarzu tej Partii) | Zakazane |
+   | Spoilery (osoba trzecia dostarcza Uczestnikowi informacje których nie można wydedukować oglądając tylko jego stronę rozgrywki) | Zakazane - jeśli Uczestnika przeczyta spoiler powinien grać tak jakby go nie widział, a osoba udzielająca spoileru powinna zostać wyciszona przez gracza bądź moderatora czatu, na czas trwania Gry |
+   | Ghosting (obecność na transmisji przeciwnika lub komentarzu tej Gry) | Zakazane |
    | Programy czytające pamięć Heroes III - na przykład żeby zobaczyć nieodkrytą część mapy lub przewidzieć rozwój bohatera | Zakazane |
    | Kalkulatory value lub obrażeń | Dozwolone |
    | Poradniki wideo | Dozwolone |
-   | Oglądanie swojej transmisji lub nagrania z danej Partii w trakcie jej trwania | Zabronione |
-   | Screenshoty z trwającej Partii | Zabronione |
+   | Oglądanie swojej transmisji lub nagrania z danej Gry w trakcie jej trwania | Zabronione |
+   | Screenshoty z trwającej Gry | Zabronione |
    | Strony wiki | Dozwolone |
-   | Własne notatki o Heroes III lub Partii | Dozwolone |
+   | Własne notatki o Heroes III lub Grze | Dozwolone |
    | Makra i bindy | Dozwolone jest stosowanie makr i bindów ograniczających się do symulacji kombinacji 2 klawiszy, bez dodatkowych opóźnień oraz bez ruchów kursorem. |
 
-3. Przy wczytywaniu Partii, dodatkowy czas (10 minut) oferowany przez grę służy WYŁĄCZNIE do planowania ruchów. Zabronione jest wtedy jakiekolwiek poruszanie bohaterów, rzucanie zaklęć, wykup armii, budynków etc.
+3. Przy wczytywaniu Gry, dodatkowy czas (10 minut) oferowany przez grę służy WYŁĄCZNIE do planowania ruchów. Zabronione jest wtedy jakiekolwiek poruszanie bohaterów, rzucanie zaklęć, wykup armii, budynków etc.
 
-4. Uczestnicy mają obowiązek zachowywać się kulturalnie względem siebie w czasie Partii, przed nimi i po nich na czacie Heroes III, na transmisjach z Partii oraz na ich czatach, w prywatnych wiadomościach dotyczących Mistrzostw oraz na Serwerze Discord.
+4. Uczestnicy mają obowiązek zachowywać się kulturalnie względem siebie w czasie Gry, przed nimi i po nich na czacie Heroes III, na transmisjach z Gry oraz na ich czatach, w prywatnych wiadomościach dotyczących Mistrzostw oraz na Serwerze Discord.
 
-5. Zabrania się Uczestnikom wyrażania dyskryminujących poglądów, takich jak queerfobia, rasizm, seksizm i ksenofobia na czacie Heroes III w Partiach, na transmisjach z Partii oraz na ich czatach, w prywatnych wiadomościach dotyczących Mistrzostw oraz na Serwerze Discord.
+5. Zabrania się Uczestnikom wyrażania dyskryminujących poglądów, takich jak queerfobia, rasizm, seksizm i ksenofobia na czacie Heroes III, na transmisjach z Gry oraz na ich czatach, w prywatnych wiadomościach dotyczących Mistrzostw oraz na Serwerze Discord.
 
 6. Uczestnicy powinni powstrzymać się od publicznych oskarżeń co do naruszenia Zasad Mistrzostw wobec innych. Każdy problem tego typu powinien być zgłoszony Organizatorom w celu potwierdzenia.
 
@@ -194,30 +194,30 @@
 
    `1)` Akcpetuje Politykę Prywatności Mistrzostw,
 
-   `2)` Nadaje Organizatorom niezbywalne i niewyłączne prawo do retransmisji, nagrywania i udostępniania wybranych Partii w celu udostępniania komentarza i archiwizacji. Organizatorzy mogą dzielić się tym prawem z osobami trzecimi.
+   `2)` Nadaje Organizatorom niezbywalne i niewyłączne prawo do retransmisji, nagrywania i udostępniania wybranych Gier w celu udostępniania komentarza i archiwizacji. Organizatorzy mogą dzielić się tym prawem z osobami trzecimi.
 
-9. Począwszy od fazy 1/32 fazy pucharowej wlącznie Uczestnik zobowiązany jest do zamieszczenia informacji o planowanej dacie Partii na Discordzie na kanale `#schedule`:
+9. Począwszy od fazy 1/32 fazy pucharowej wlącznie Uczestnik zobowiązany jest do zamieszczenia informacji o planowanej dacie Gry na Discordzie na kanale `#schedule`:
 
-   `1)` W fazie 1/32 fazy pucharowej przed rozpoczęciem Partii,
+   `1)` W fazie 1/32 fazy pucharowej przed rozpoczęciem Gry,
 
-   `2)` W fazie 1/16 fazy pucharowej 24 godziny przed rozpoczęciem Partii,
+   `2)` Od fazy 1/16 fazy pucharowej 24 godziny przed rozpoczęciem Gry,
 
-   `3)` W fazie 1/8 fazy pucharowej 48 godzin przed rozpoczęciem Partii,
+   `3)` W fazie 1/8 fazy pucharowej 48 godzin przed rozpoczęciem Gry,
 
-   `4)` W fazie 1/2 fazy pucharowej oraz w Wielkich Finałach Mistrzostw 72 godziny przed rozpoczęciem Partii.
+   `4)` W fazie 1/2 fazy pucharowej oraz w Wielkich Finałach Mistrzostw 72 godziny przed rozpoczęciem Gry.
 
 > [!IMPORTANT]
-> Organizatorzy zachęcają do zamieszczania informacji o planowanej dacie Partii na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
+> Organizatorzy zachęcają do zamieszczania informacji o planowanej dacie Gry na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
 
-10. Począwszy od fazy 1/32 fazy pucharowej włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Partii. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia link do transmisji na kanale `#streams` na Serwerze Discord.
+10. Począwszy od fazy 1/32 fazy pucharowej włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Gier. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia link do transmisji na kanale `#streams` na Serwerze Discord.
 
-11. Jeżeli Partia jest retransmitowana przez Organizatorów Uczestnik dodatkowo zobowiązany jest na czas trwania Partii:
+11. Jeżeli Gra jest retransmitowana przez Organizatorów Uczestnik dodatkowo zobowiązany jest na czas trwania Gry:
 
-    `1)` Ukryć wszystkie zewnętrzne nakładki np reklamy, banery, nakładki informujące o stanie Partii (tzw. *overlay*), widoczne na transmisji Uczestnika,
+    `1)` Ukryć wszystkie zewnętrzne nakładki np reklamy, banery, nakładki informujące o stanie Gry (tzw. *overlay*), widoczne na transmisji Uczestnika,
 
     `2)` Ustawić rozdzielczość Heroes III w zakresie od 1180x664 do 1365x768.
 
-12. W obu Meczach Wielkich Finałów Mistrzostw każdy Uczestnik zobowiązany jest na czas trwania Partii:
+12. W obu Meczach Wielkich Finałów Mistrzostw każdy Uczestnik zobowiązany jest na czas trwania Gry:
 
     `1)` Nałożyć na transmisję obraz udostępniany z kamery internetowej. Jeżeli Uczestnik nie posiada sprzętu potrzebnego do spełnienia tego wymogu, Organizatorzy dołożą wszelkich starań, aby na czas Meczu taki sprzęt udostępnić,
 
@@ -225,15 +225,15 @@
 
 13. Zabronione jest korzystanie przez więcej niż jedną osobę z danego konta w Mistrzostwach.
 
-14. Rozmowy między Uczestnikami w trakcie trwania Partii powinny ograniczać się jedynie do kwestii koniecznych do wypełniania postanowień Zasad Mistrzostw, chyba, że obaj Uczestnicy wyrażą zgodę na prowadzenie innej rozmowy.
+14. Rozmowy między Uczestnikami w trakcie trwania Gry powinny ograniczać się jedynie do kwestii koniecznych do wypełniania postanowień Zasad Mistrzostw, chyba, że obaj Uczestnicy wyrażą zgodę na prowadzenie innej rozmowy.
 
 15. Zabrania się Uczestnikom działania na szkodę Mistrzostw i działalności Organizatorów związanej z ich przeprowadzeniem.
 
-16. Zabrania się Uczestnikom nadmiernego przedłużania Partii i nadużywania zegara w walce.
+16. Zabrania się Uczestnikom nadmiernego przedłużania Gry i nadużywania zegara w walce.
 
 ## 4. Rozgrywka
 
-1. Partie powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Heroes III. W przypadku gdy HotA Lobby nie jest dostępne, Partię można rozegrać za pośrednictwem Hamachi lub Game Rangera.
+1. Gry powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Heroes III. W przypadku gdy HotA Lobby nie jest dostępne, Grę można rozegrać za pośrednictwem Hamachi lub Game Rangera.
 
 2. Przygotowanie rozgrywki:
 
@@ -250,11 +250,11 @@
    `3)` W przypadku Meczu Bo3:
    <ul style="list-style: none;">
 
-   a) zwycięzca rzutu monetą wybiera szablon, na którym zostanie rozegrana pierwsza Partia w Meczu,
+   a) zwycięzca rzutu monetą wybiera szablon, na którym zostanie rozegrana pierwsza Gra w Meczu,
 
-   b) przegrany rzutu monetą wybiera szablon, na którym zostanie rozegrana druga Partia w Meczu,
+   b) przegrany rzutu monetą wybiera szablon, na którym zostanie rozegrana druga Gra w Meczu,
 
-   c) Uczestnicy Meczu eliminują szablony w systemie ABBA, gdzie A to zwycięzca rzutu monetą, aż do pozostania jednego szablonu, na którym rozegrana zostanie trzecia Partia.
+   c) Uczestnicy Meczu eliminują szablony w systemie ABBA, gdzie A to zwycięzca rzutu monetą, aż do pozostania jednego szablonu, na którym rozegrana zostanie trzecia Gra.
    </ul>
 
 4. Wybór koloru oraz miasta:
@@ -264,7 +264,7 @@
 
    a) Wylosowanie miast następuje przez opcję Random Town vs Random Town, w przypadku wylosowania dwóch identycznych miast, losowanie należy powtórzyć,
 
-   b) Uczestnicy mogą zażądać ponownego losowania miast (tzw. *reroll*) i zbanowania 0-2 wylosowanych miast za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Uczestnika w ciągu Partii. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
+   b) Uczestnicy mogą zażądać ponownego losowania miast (tzw. *reroll*) i zbanowania 0-2 wylosowanych miast za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Uczestnika w ciągu Gry. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
 
    c) Licytację o miasto oraz o kolor rozpoczyna Uczestnik, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru,
 
@@ -276,7 +276,7 @@
 
    a) Wylosowanie miasta następuje przez opcję Random Town,
 
-   b) Uczestnicy mogą zażądać ponownego losowania miast (tzw. *reroll*) i zbanowania wylosowanego miasta za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Uczestnika w ciągu Partii. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
+   b) Uczestnicy mogą zażądać ponownego losowania miast (tzw. *reroll*) i zbanowania wylosowanego miasta za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Uczestnika w ciągu Gry. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
 
    c) Licytację o kolor rozpoczyna Uczestnik, który wygrał rzut monetą.
    </ul>
@@ -293,7 +293,7 @@
 
 ## 5. Restarty
 
-1. Na wszystkich szablonach lustrzanych i Duel 2.69S oraz Jebus Outcast 2.96A każdy z Uczestników ma w danej Partii do dyspozycji po jednym subiektywnym restarcie w pierwszym dniu (111). Na pozostałych szablonach każdy z Uczestników ma w danej Partii do dyspozycji dwa subiektywne restarty w pierwszym dniu (2 x 111) lub jeden restart w dniu drugim (1 x 112).
+1. Na wszystkich szablonach lustrzanych i Duel 2.69S oraz Jebus Outcast 2.96A każdy z Uczestników ma w danej Grze do dyspozycji po jednym subiektywnym restarcie w pierwszym dniu (111). Na pozostałych szablonach każdy z Uczestników ma w danej Grze do dyspozycji dwa subiektywne restarty w pierwszym dniu (2 x 111) lub jeden restart w dniu drugim (1 x 112).
 
 2. Pierwszy decyzję o subiektywnym restarcie podejmuje gracz czerwony, a następnie gracz niebieski. Gracz niebieski ma prawo w 112 i 113 podjąć decyzję o subiektywnym restarcie, liczoną jako subiektywny restart z poprzedniej, maksymalnie do 5 sekund od zaakceptowania monitu o rozpoczęciu tury.
 
@@ -303,19 +303,19 @@
 
 5. Żaden z restartów nie może zostać wykorzystany do zmiany wybranego bohatera startowego lub premii startowej.
 
-## 6. Zakończenie Meczu i Partii
+## 6. Zakończenie Meczu i Gry
 
-1. Po rozegraniu Partii, przegrany wpisuje “gg” na czacie Heroes III (oraz w przypadku grania w trybie rankingowym potwierdza przyznanie się do porażki), jest to jednoznaczne z przyznaniem się do porażki oraz dowodem potwierdzającym raport z Partii. Decyzji o poddaniu Partii nie można odwołać.
+1. Po rozegraniu Gry, przegrany wpisuje “gg” na czacie Heroes III (oraz w przypadku grania w trybie rankingowym potwierdza przyznanie się do porażki), jest to jednoznaczne z przyznaniem się do porażki oraz dowodem potwierdzającym raport z Gry. Decyzji o poddaniu Gry nie można odwołać.
 
-2. Po zakończeniu Partii Uczestnicy są zobowiązani do podania haseł, które chronią zapisy Partii.
+2. Po zakończeniu Gry Uczestnicy są zobowiązani do podania haseł, które chronią zapisy Gry.
 
-3. Zwycięzca składa raport z Partii, który należy składać na Stronie Turnieju, jeżeli przegrany wyrazi taką chęć, może on złożyć raport za zwycięzcę.
+3. Zwycięzca składa raport z Gry, który należy składać na Stronie Turnieju, jeżeli przegrany wyrazi taką chęć, może on złożyć raport za zwycięzcę.
 
 4. Jeżeli raport nie zostanie potwierdzony w terminie Meczu, ani nie zostanie zgłoszone oszustwo w raporcie, zostaje on uznany za potwierdzony.
 
-5. Mecz kończy się w momencie potwierdzenia wszystkich raportów z jego Partii.
+5. Mecz kończy się w momencie potwierdzenia wszystkich raportów z jego Gier.
 
-6. Organizatorzy, na wniosek obu Uczestników, lub własną decyzją, mogą zakończyć Partię przez arbitralne wskazanie zwycięzcy na podstawie oceny sytuacji w Partii.
+6. Organizatorzy, na wniosek obu Uczestników, lub własną decyzją, mogą zakończyć Grę przez arbitralne wskazanie zwycięzcy na podstawie oceny sytuacji w Grze.
 
 ## 7. Kary
 
@@ -324,18 +324,18 @@
    `1)` Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
    <ul style="list-style: none;">
 
-   a). Drugie ostrzeżenie - walkower na Partię (Mecz w przypadku *Bo1*),
+   a). Drugie ostrzeżenie - walkower na Grę (Mecz w przypadku *Bo1*),
 
    b). Trzecie ostrzeżenie - dyskwalifikacja,
    </ul>
 
-   `2)` Walkower na Partię (Mecz w przypadku *Bo1*) - otrzymywany za średnie przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem,
+   `2)` Walkower na Grę (Mecz w przypadku *Bo1*) - otrzymywany za średnie przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem,
 
    `3)` Dyskwalifikacja - otrzymywana za duże przewinienia,
 
    - waga przewinienia podlega wyłącznej interpretacji Organizatorów i inna jej interpretacja przez Uczestnika nie może być podstawą do odwołania się od decyzji Organizatorów.
 
-2. W sytuacjach, w których doszło do nieprawidłowości w rozegraniu Partii, Organizatorzy mogą nakazać jej powtórzenie, lub, jeżeli Partia nadal trwa, jej zatrzymanie.
+2. W sytuacjach, w których doszło do nieprawidłowości w rozegraniu Gry, Organizatorzy mogą nakazać jej powtórzenie, lub, jeżeli Gra nadal trwa, jej zatrzymanie.
 
 3. W przypadku kiedy jeden z Uczestników nie stawi się na ustalony termin gry, należy zastosować następującą procedurę (ilekroć w procedurze występują zwroty w drugiej osobie, Organizatorzy mają na myśli tego z Uczestników grających w danym Meczu, który czeka na swojego, spóźniającego się, przeciwnika):
 
@@ -345,21 +345,21 @@
 
    `2)` <a id="point-7-3-2"></a>Po 15 minutach od ustalonego terminu, jeżeli przeciwnik nadal się nie zjawił, musisz poinformować o tej sytuacji Organizatorów, a następnie wysłać do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “You have not shown up as requested. I have informed the Organizer of this situation. I am waiting another 15 minutes for your response, but according to regulations you will be devoid of subjective restarts in this Party.”
 
-   `2b)` W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Nie zjawiłeś/zjawiłaś się w wyznaczonym terminie. Organizator został poinformowany o tej sytuacji. Będę czekał jeszcze 15 minut na Twoją odpowiedź, ale zgodnie z regulaminem zostaniesz pozbawiony subiektywnych restartów w tej partii.”
+   `2b)` W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Nie zjawiłeś/zjawiłaś się w wyznaczonym terminie. Organizator został poinformowany o tej sytuacji. Będę czekał jeszcze 15 minut na Twoją odpowiedź, ale zgodnie z regulaminem zostaniesz pozbawiony subiektywnych restartów w tej Grze.”
 
-   `3)` Jeżeli przeciwnik zjawi się po wysłaniu wiadomości z [ustępu 2)](#point-2-3-2b) i przed upływem 30 minut od ustalonego terminu, nie będzie mógł on skorzystać z subiektywnych restartów w tej Partii.
+   `3)` Jeżeli przeciwnik zjawi się po wysłaniu wiadomości z [ustępu 2)](#point-2-3-2b) i przed upływem 30 minut od ustalonego terminu, nie będzie mógł on skorzystać z subiektywnych restartów w tej Grze.
 
    `4)` Po 30 minutach od ustalonego terminu, jeżeli przeciwnik nadal się nie zjawił, musisz poinformować o tej sytuacji Organizatorów, a następnie wysłać do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “You have not shown up as requested. I have informed the Organizer of this situation. I am not waiting for your respone any longer.”
 
    `4b)` W przypadku kiedy obaj gracze posługują się językiem polskim, spolszczona wersja wiadomości jest akceptowalna: “Nie zjawiłeś/zjawiłaś się w wyznaczonym terminie. Organizator został poinformowany o tej sytuacji. Nie czekam już dłużej na Twoją odpowiedź.”
 
-   `5)` W przypadku jeżeli przeciwnik zjawi się i jest chętny do rozpoczęcia Partii, powinieneś/powinnaś pozwolić przeciwnikowi na spokojne przygotowanie się do Partii. Należy przyjąć zasadę, że przeciwnik powinien mieć co najmniej 5 dodatkowych minut na połączenie się z serwerami poczekalni online i dołączenie do pokoju Partii. Jeżeli przeciwnik wyraźnie nadużywa tego przywileju, powinieneś/powinnaś poinformować o tym Organizatorów.
+   `5)` W przypadku jeżeli przeciwnik zjawi się i jest chętny do rozpoczęcia Gry, powinieneś/powinnaś pozwolić przeciwnikowi na spokojne przygotowanie się do Gry. Należy przyjąć zasadę, że przeciwnik powinien mieć co najmniej 5 dodatkowych minut na połączenie się z serwerami poczekalni online i dołączenie do pokoju Gry. Jeżeli przeciwnik wyraźnie nadużywa tego przywileju, powinieneś/powinnaś poinformować o tym Organizatorów.
 
    `6)` W przypadku meczów dla których ustalono termin sędziowski, nie poinformowanie o brakującym graczu Załogi może skutkować podwójnym walkowerem.
 
    `7)` Jeżeli chcesz, możesz opóźnić wykonanie tej procedury maksymalnie o godzinę - ale nie masz takiego obowiązku.
 
-   `8)` Stosując powyższą procedurę, musisz przygotować dowód w postaci zrzutu ekranu pokazujący że twój przeciwnik nie pojawił się na czas. Dodatkowo, musisz przygotować dowód w tej samej formie pokazujący ustaloną datę i godzinę rozpoczęcia Partii. W przypadku jeżeli termin został ustalony w sposób niejednoznaczny, Organizatorzy mogą zdecydować się na nie wyciągnięcie konsekwencji wobec brakującego gracza, w zależności od pełnego kontekstu. Organizatorzy mogą też zadecydować o redukcji kary w przypadku zaistniałej siły wyższej.
+   `8)` Stosując powyższą procedurę, musisz przygotować dowód w postaci zrzutu ekranu pokazujący że twój przeciwnik nie pojawił się na czas. Dodatkowo, musisz przygotować dowód w tej samej formie pokazujący ustaloną datę i godzinę rozpoczęcia Gry. W przypadku jeżeli termin został ustalony w sposób niejednoznaczny, Organizatorzy mogą zdecydować się na nie wyciągnięcie konsekwencji wobec brakującego gracza, w zależności od pełnego kontekstu. Organizatorzy mogą też zadecydować o redukcji kary w przypadku zaistniałej siły wyższej.
 
 4. Uczestnicy mogą odwołać się od decyzji Organizatorów najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
 
