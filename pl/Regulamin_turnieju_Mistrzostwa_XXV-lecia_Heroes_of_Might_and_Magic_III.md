@@ -143,7 +143,9 @@
 
    `2)` warunkiem uczestnictwa w tej fazie jest udział w półfinałach fazy pucharowej,
 
-   `3)` w tej fazie zostaną przeprowadzone 2 Mecze Bo3. Pierwszy pomiędzy 2 zwycięzcami półfinałów fazy pucharowej - finał, oraz drugi pomiędzy 2 przegranymi półfinałów w tej fazy - mecz o trzecie miejsce.
+   `3)` w tej fazie zostaną przeprowadzone 2 Mecze Bo3. Pierwszy pomiędzy 2 zwycięzcami półfinałów fazy pucharowej - finał, oraz drugi pomiędzy 2 przegranymi półfinałów w tej fazy - mecz o trzecie miejsce,
+
+   `4)` daty Meczów, miejsce oraz sposób ich rozegrania zostanie ustalony przez Organizatorów w porozumieniu z Uczestnikami fazy.
 
 6. Za zgodą obu Uczestników Mecz Bo1 może zostać rozegrany w systemie Bo3, a Mecz Bo3 w systemie Bo5. Nie dotyczy to Wielkich Finałów Mistrzostw.
 
@@ -167,7 +169,7 @@
 
    | Sposób na zdobycie informacji | Jego legalność w Mistrzostwach |
    | :---                          | :----                         |
-   | Porady (osoba trzecia dostarcza Uczestnikowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst | Dozwolone, jeżeli podpowiedź nie posiada znaczącego wpływ na rozgrywkę oraz nie sprawia, że Uczestnik zmieni swój plan na rozgrywkę. Uczestnicy korzystający z tego typu porad, jeżeli nie spełniają one wymogów wymienionych w 1 zdaniu, mogą zostać ukarani, każdy tego typu przypadek należy zgłosić do Organizatorów; Uczestnicy transmitujący Grę powinni usuwać naruszające Zasady Mistrzostw podpowiedzi, najlepiej za pośrednictwem moderacji,|
+   | Porady (osoba trzecia dostarcza Uczestnikowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst | Dozwolone, poza sytuacjami, w których Uczestnik: - Prosi widzów o informacje lub porady, - Ewidentnie podejmuje decyzję korzystając z podpowiedzi, - Dopuszcza do wielokrotnego pojawiania się na czacie mniej istotnych podpowiedzi.|
    | Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo| Zakazane |
    | Spoilery (osoba trzecia dostarcza Uczestnikowi informacje których nie można wydedukować oglądając tylko jego stronę rozgrywki) | Zakazane - jeśli Uczestnika przeczyta spoiler powinien grać tak jakby go nie widział, a osoba udzielająca spoileru powinna zostać wyciszona przez gracza bądź moderatora czatu, na czas trwania Gry |
    | Ghosting (obecność na transmisji przeciwnika lub komentarzu tej Gry) | Zakazane |
@@ -200,16 +202,16 @@
 
    `1)` W fazie 1/32 fazy pucharowej przed rozpoczęciem Gry,
 
-   `2)` Od fazy 1/16 fazy pucharowej 24 godziny przed rozpoczęciem Gry,
+   `2)` W fazie 1/16 fazy pucharowej 24 godziny przed rozpoczęciem Gry,
 
-   `3)` W fazie 1/8 fazy pucharowej 48 godzin przed rozpoczęciem Gry,
+   `3)` Od fazy 1/8 fazy pucharowej 48 godzin przed rozpoczęciem Gry,
 
-   `4)` W fazie 1/2 fazy pucharowej oraz w Wielkich Finałach Mistrzostw 72 godziny przed rozpoczęciem Gry.
+   `4)` W fazie 1/2 fazy pucharowej72 godziny przed rozpoczęciem Gry.
 
 > [!IMPORTANT]
 > Organizatorzy zachęcają do zamieszczania informacji o planowanej dacie Gry na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
 
-10. Począwszy od fazy 1/32 fazy pucharowej włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Gier. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia link do transmisji na kanale `#streams` na Serwerze Discord.
+10. Począwszy od fazy 1/32 fazy pucharowej włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Gier. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia link do transmisji na kanale `#streams` na Serwerze Discord. Uczestnik zobowiązany jest również do zachowywania zapisów z obowiązkowych transmisji przez okres trwania Mistrzostw i 14 dni po ich zakończeniu.
 
 11. Jeżeli Gra jest retransmitowana przez Organizatorów Uczestnik dodatkowo zobowiązany jest na czas trwania Gry:
 

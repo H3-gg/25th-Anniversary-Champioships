@@ -144,7 +144,9 @@
 
    `2)` condition of joining the phase is advancing to semifinals of the knockout phase,
 
-   `3)` in this phase 2 Bo3 Matches will be played. First between 2 winners of knockout phase semifinals - final, and second between 2 losers of knockout phase semifinals - match for third place.
+   `3)` in this phase 2 Bo3 Matches will be played. First between 2 winners of knockout phase semifinals - final, and second between 2 losers of knockout phase semifinals - match for third place,
+
+   `4)` dates of Matches, place and way of playing them will be determined by Organizers in agreement with Participants of this phase,
 
 6. By agreement of both Participants, Bo1 Match can be played in Bo3 system and Bo3 Match in Bo5 system.
 
@@ -168,7 +170,7 @@
 
    | Way to obtain information | Its legality in the Championships |
    | :---                          | :---                         |
-   | Tips (a third Game provides the Participtant with information that can be deduced by only viewing his gameplay) via text | Allowed if the hint does not have a significant impact on the gameplay and does not cause the Participtant to change his game plan. Participants using this type of advice, if it does not meets requirements mentioned in first sentence, may be punished, each such case should be reported to the Organizers; Participtants who stream their Parties should remove such tips, preferably via moderation, |
+    | Advice (a third party provides the Participant with information that can be deduced by looking only at their gameplay) through text | Allowed, except in situations where the Participant: - Asks viewers for information or advice, - Clearly makes decisions based on advice, - Allows for multiple less relevant advices appearing in the chat.|
    | Advice by phone, teamspeak, Skype, etc. talking live | Forbidden |
    | Spoilers (a third Game provides the Participtant with information that cannot be deduced by looking only at his gameplay) | Forbidden - if the Participtant reads a spoiler, they should play as if they had not seen it and person who gives a spoiler should be muted from stream chat for the duration of the Game |
    | Ghosting (viewing on the opponent's stream or commentary of this Game) | Forbidden |
@@ -203,14 +205,14 @@
 
    `2)` In the 1/16 phase of the knouckout phase 24 hours before the Game starts,
 
-   `3)` In the 1/8 phase of the knouckout phase 48 hours before the Game starts,
+   `3)` From the 1/8 phase of the knouckout phase 48 hours before the Game starts,
 
-   `4)` In the 1/2 phase of the knouckout phase and in the Grand Championships Finals 72 hours before the Game starts.
+   `4)` In the 1/2 phase of the knouckout phase 72 hours before the Game starts.
 
 > [!IMPORTANT]
 > Organizers encourage to posting informaction about planned date of the Game on Discord Server on `#schedule` channel also in earlier phases.
 
-10. Starting from the 1/32 phase of the knouckout phase, the Participant is obliged to stream all of their Parties. The stream should be conducted on the Twitch, YouTube or on the voice channel on the H3gg Discord Server. The Participant is obliged to post a link to the stream on the `#streams` channel on the H3gg Discord Server.
+10. Starting from the 1/32 phase of the knockout phase, the Participant is required to stream all of their Parties. The stream should be conducted on Twitch, YouTube, or on the voice channel on the H3gg Discord Server. The Participant is obligated to post a link to the stream on the `#streams` channel on the H3gg Discord Server. The Participant is also required to keep recordings of the mandatory streams for the duration of the Championships and for 14 days after their conclusion.
 
 11. If the Game is rebroadcast by the Organizers, the Participant is additionally obliged, for the duration of the Game, to:
 

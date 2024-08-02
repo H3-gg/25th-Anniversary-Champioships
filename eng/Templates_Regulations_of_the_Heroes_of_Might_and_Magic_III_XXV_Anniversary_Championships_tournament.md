@@ -44,7 +44,7 @@
     |    Template name    | Map size | Human players (+AI) | Road type | Monsters strength | Difficulty |       Timer       | Simultaneous turns |
     |:-------------------:|:--------:|:-------------------:|:---------:|:-----------------:|:----------:|:-----------------:|:------------------:|
     |       6lm10a        |   XL+U   |        2(+6)        |  Medium   |      Strong       |    160%    | 18:00+07:00+01:15 |        121         |
-    |      Conquest 1.4   |   XH-U   |        2(+6)        |   Fast    |      Strong       |    130%    | 20:00+08:00+01:15 |        123         |
+    |      Conquest 1.4   |   XH-U   |        2(+6)        |   Fast    |      Strong       |    130%    | 20:00+08:00+01:15 |        121         |
     |     Duel 2.69S      |   XL+U   |          2          |   Fast    |      Strong       |    160%    | 02:00+01:00+00:20 |        127         |
     |        h3dm1        |   L+U    |          2          |  Medium   |      Strong       |    160%    | 20:00+07:00+01:15 |        115         |
     |     Jebus Cross     |   XL-U   |          2          |   Fast    |      Strong       |    160%    | 14:00+07:00+01:30 |        116         |
