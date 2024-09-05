@@ -233,6 +233,8 @@
 
 16. Zabrania się Uczestnikom nadmiernego przedłużania Gry i nadużywania zegara w walce.
 
+17. Zakazane jest korzystanie z budynku `Bank` (https://heroes.thelazy.net/index.php/Bank) w mieście `Fabryka` w Grach w Mistrzostwach.
+
 ## 4. Rozgrywka
 
 1. Gry powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Heroes III. W przypadku gdy HotA Lobby nie jest dostępne, Grę można rozegrać za pośrednictwem Hamachi lub Game Rangera.
@@ -292,6 +294,8 @@
 
    c) gracz A wybiera jednego z pozostałych bohaterów startowych w wylosowanej frakcji.
    </ul>
+
+5. Maksymalna liczba rund w walce wynosi 100, w przypadku przekroczenia tej liczby, jeżeli nie została ona zaimplementowana w ustawieniach szablonu, atakujący ma obowiązek ucieć z walki lub poddać bohatera.
 
 ## 5. Restarty
 

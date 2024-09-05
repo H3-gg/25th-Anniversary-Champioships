@@ -4,30 +4,30 @@
 
 1. W fazie grupowej obowiązuja następujące szablony:
 
-    - 6lm10a,
+    - 6lm10a fix,
     - Duel 2.69S,
-    - h3dm1,
+    - h3dm1 fix,
     - Jebus Cross,
     - Jebus Outcast 2.96A
 
 2. W fazie pucharowej obowiązują następujące szablony:
 
-    - 6lm10a,
+    - 6lm10a fix,
     - Conquest 1.4,
     - Duel 2.69S,
-    - h3dm1,
+    - h3dm1 fix,
     - Jebus Cross,
-    - mt_Jebus,
+    - mt_Jebus fix,
     - mt_Nebula 1.3.
 
 3. Link do pobrania wszystkich wyżej wymienionych szablonów znajduje się na [Dysku Google](https://drive.google.com/drive/folders/15jK89Q5ptZBc1w8-rAItX8zrpImn2Dk8?usp=sharing).
 
 4. Za zgodą obu Uczestników, Partia może zostać rozegrana na następującach wersjach szablonów:
 
-    - dla 6lm10a:
+    - dla 6lm10a fix:
       - 6lm10 1.1
       - 6lm10f fixed - wersja zalecana przez Organizatorów
-    - dla h3dm1:
+    - dla h3dm1 fix:
       - h3dm3_nc - wersja zalecana przez Organizatorów
     - dla mt_jebus:
       - mt_King 2.65
@@ -43,13 +43,13 @@
 
     |   Nazwa szablonu    | Rozmiar mapy | Gracze ludzcy (+AI) | Typ dróg | Siła potworów | Poziom gry |       Zegar       | Tury symultaniczne |
     |:-------------------:|:------------:|:-------------------:|:--------:|:-------------:|:----------:|:-----------------:|:------------------:|
-    |       6lm10a        |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |
+    |       6lm10a fix    |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |
     |      Conquest 1.4   |     XH-U     |        2(+6)        | Szybkie  |     Silne     |    130%    | 20:00+08:00+01:15 |        121         |
     |     Duel 2.69S      |     XL+U     |          2          | Szybkie  |     Silne     |    160%    | 02:00+01:00+00:20 |        127         |
-    |        h3dm1        |     L+U      |          2          | Średnie  |     Silne     |    160%    | 20:00+07:00+01:15 |        115         |
+    |        h3dm1 fix    |     L+U      |          2          | Średnie  |     Silne     |    160%    | 20:00+07:00+01:15 |        115         |
     |     Jebus Cross     |     XL-U     |          2          | Szybkie  |     Silne     |    160%    | 14:00+07:00+01:30 |        116         |
     | Jebus Outcast 2.96A |      XL      |          2          | Szybkie  |     Silne     |    160%    | 02:00+01:15+00:20 |        131         |
-    |      mt_Jebus       |     L+U      |          2          | Szybkie  |     Silne     |    160%    | 14:00+07:00+01:30 |        116         |
+    |      mt_Jebus fix   |     L+U      |          2          | Szybkie  |     Silne     |    160%    | 14:00+07:00+01:30 |        116         |
     |    mt_Nebula 1.3    |     XL+U     |          2          | Szybkie  |     Silne     |    160%    | 20:00+08:00+01:15 |        121         |
 
 3. Od fazy 1/16 fazy pucharowej, na szablonach Jebus Cross oraz mt_Jebus, według domyślnych ustawień, tury symultaniczne obowiązują do 114.

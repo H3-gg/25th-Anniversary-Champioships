@@ -4,32 +4,32 @@
 
 1. In the group phase, the following templates are mandatory:
 
-    - 6lm10a,
+    - 6lm10a fix,
     - Duel 2.69S,
-    - h3dm1,
+    - h3dm1 fix,
     - Jebus Cross,
     - Jebus Outcast 2.96A
 
 2. In the knockout phase, the following templates are mandatoryL
 
-    - 6lm10a,
+    - 6lm10a fix,
     - Conquest 1.4,
     - Duel 2.69S,
-    - h3dm1,
+    - h3dm1 fix,
     - Jebus Cross,
-    - mt_Jebus,
+    - mt_Jebus fix,
     - mt_Nebula 1.3.
 
 3. Link to downloading all of the templates mentioned above is on [Google Drive](https://drive.google.com/drive/folders/15jK89Q5ptZBc1w8-rAItX8zrpImn2Dk8?usp=sharing)
 
 4. By mutual Participants agreement, Party can be played on following versions of templates:
 
-    - for 6lm10a:
+    - for 6lm10a fix:
       - 6lm10 1.1
       - 6lm10f fixed - version recommended by Organizers
-    - for h3dm1:
+    - for h3dm1 fix:
       - h3dm3_nc - version recommended by Organizers
-    - for mt_Jebus:
+    - for mt_Jebus fix:
       - mt_King 2.65
     - for mt_Nebula 1.3:
       - mt_Andromeda 2.1
@@ -43,10 +43,10 @@
 
     |    Template name    | Map size | Human players (+AI) | Road type | Monsters strength | Difficulty |       Timer       | Simultaneous turns |
     |:-------------------:|:--------:|:-------------------:|:---------:|:-----------------:|:----------:|:-----------------:|:------------------:|
-    |       6lm10a        |   XL+U   |        2(+6)        |  Medium   |      Strong       |    160%    | 18:00+07:00+01:15 |        121         |
+    |       6lm10a fix    |   XL+U   |        2(+6)        |  Medium   |      Strong       |    160%    | 18:00+07:00+01:15 |        121         |
     |      Conquest 1.4   |   XH-U   |        2(+6)        |   Fast    |      Strong       |    130%    | 20:00+08:00+01:15 |        121         |
     |     Duel 2.69S      |   XL+U   |          2          |   Fast    |      Strong       |    160%    | 02:00+01:00+00:20 |        127         |
-    |        h3dm1        |   L+U    |          2          |  Medium   |      Strong       |    160%    | 20:00+07:00+01:15 |        115         |
+    |        h3dm1 fix    |   L+U    |          2          |  Medium   |      Strong       |    160%    | 20:00+07:00+01:15 |        115         |
     |     Jebus Cross     |   XL-U   |          2          |   Fast    |      Strong       |    160%    | 14:00+07:00+01:30 |        116         |
     | Jebus Outcast 2.96A |    XL    |          2          |   Fast    |      Strong       |    160%    | 02:00+01:10+00:20 |        131         |
     |      mt_Jebus       |   L+U    |          2          |   Fast    |      Strong       |    160%    | 14:00+07:00+01:30 |        116         |

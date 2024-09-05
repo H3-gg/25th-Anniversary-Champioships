@@ -234,6 +234,8 @@
 
 16. Participants are prohibited from excessively prolonging a Game and abusing the timer during battles.
 
+17. Participants are prohibited to use the `Bank` building (https://heroes.thelazy.net/index.php/Bank) in the `Factory` town in Championship Games.
+
 ## 4. Gameplay
 
 1. Parties should take place via the HotA Lobby available in the Heroes III. If HotA Lobby is not available, Game can be played via Hamachi or Game Ranger.
@@ -290,6 +292,8 @@
 
    c) player A chooses one of the remaining starting heroes in the drawn faction.
    </ul>
+
+5. The maximum number of rounds in a battle is 100. If this number is exceeded and it has not been implemented in the template settings, the attacker is obligated to flee from the battle or surrender the hero.
 
 ## 5. Restarts
 
